@@ -1,0 +1,123 @@
+{
+  "heroes": [
+    {
+      "name": "Gorbad Ironclaw",
+      "wounds": "7",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Azhag The Slaughterer",
+      "wounds": "12",
+      "desc": "Wizard | Monster",
+      "points" : "3.5"
+    },
+    {
+      "name": "Orruk Warboss",
+      "wounds": "6",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Orruk Warboss On Wyvern",
+      "wounds": "10",
+      "desc": "Monster",
+      "points" : "2.5"
+    },
+    {
+      "name": "Orruk Great Shaman",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "1"
+    },
+    {
+      "name": "Orc Bully",
+      "wounds": "4",
+      "desc": "",
+      "points" : ".5"
+    },
+    {
+      "name": "Grimgor Ironhide",
+      "wounds": "7",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Black Orc Big Boss",
+      "wounds": "6",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Wurrzag, Da Great Green Prophet",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "1"
+    }
+  ],
+  "units": [
+     {
+      "name": "Orruks",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Orc Arrer Boyz",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Orruk Boarboys",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Orruk Boar Chariots",
+      "wounds": "6",
+      "models": "1",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Ruglud's Armoured Orcs",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points" : "1.5"
+    }
+  ],
+  "warmachines": [
+  ],
+  "monsters": [
+ 
+  ],
+  "formations": [
+    {
+      "name": "Ironjaws BigMob",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": ".5"
+    },
+    {
+      "name": "Greenskinz BigMob ",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": ".5"
+    },
+    {
+      "name": "Bonesplitters BigMob",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": ".5"
+    }
+  ]
+}

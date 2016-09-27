@@ -1,0 +1,293 @@
+{
+  "heroes": [
+    {
+      "name": "Nagash Supreme Lord Of The Undead",
+      "wounds": "16",
+      "desc": "Wizard | Monster",
+      "points": "12"
+    },
+    {
+      "name": "Arkhan The Black",
+      "wounds": "11",
+      "desc": "Wizard | Monster",
+      "points": "3"
+    },
+    {
+      "name": "Arkhan The Black Mortarch of Sacrament",
+      "wounds": "11",
+      "desc": "Wizard | Monster",
+      "points": "3.5"
+    },
+    {
+      "name": "Mannfred Mortarch Of Night",
+      "wounds": "11",
+      "desc": "Wizard | Monster",
+      "points": "4"
+    },
+    {
+      "name": "Neferata Mortarch Of Blood",
+      "wounds": "11",
+      "desc": "Wizard | Monster",
+      "points": "3.5"
+    },
+    {
+      "name": "Vlad Von Carstein",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points": "1.5"
+    },
+    {
+      "name": "Count Mannfred",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points": "1.5"
+    },
+    {
+      "name": "Konrad Von Carstein",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Isabella Von Carstein",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points": "1"
+    },
+    {
+      "name": "Vampire Lord",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points": "1.5"
+    },
+    {
+      "name": "Vampire Lord On Zombie Dragon",
+      "wounds": "14",
+      "desc": "Wizard",
+      "points": "4.5"
+    },
+    {
+      "name": "Vampire Lord On Abyssal Terror",
+      "wounds": "8",
+      "desc": "Wizard | Monster",
+      "points": "3"
+    },
+    {
+      "name": "Coven Throne",
+      "wounds": "12",
+      "desc": "Wizard",
+      "points": "3"
+    },
+    {
+      "name": "Heinrich Kemmler, The Lichemaster",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points": "1.5"
+    },
+    {
+      "name": "Necromancer",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points": "1"
+    },
+    {
+      "name": "Varghulf",
+      "wounds": "8",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Krell, Lord Of Undeath",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Wight King",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Wight King with Baleful Tomb Blade",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Wight King with Black Axe",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Cairn Wraith",
+      "wounds": "4",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Tomb Banshee",
+      "wounds": "4",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Black Coach",
+      "wounds": "7",
+      "desc": "",
+      "points": "1"
+    }
+  ],
+  "units": [
+    {
+      "name": "Morghast Harbingers",
+      "wounds": "6",
+      "models": "1",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Morghast Archai",
+      "wounds": "6",
+      "models": "1",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Vargheists",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Blood Knights",
+      "wounds": "15",
+      "models": "5",
+      "desc": "",
+      "points": "2.5"
+    },
+    {
+      "name": "Fell Bats",
+      "wounds": "9",
+      "models": "3",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Bat Swarms",
+      "wounds": "15",
+      "models": "3",
+      "desc": "",
+      "points": "2"
+    },
+    {
+      "name": "Zombies",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": ".75"
+    },
+    {
+      "name": "Dire Wolves",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points": ".5"
+    },
+    {
+      "name": "Corpse Cart",
+      "wounds": "6",
+      "models": "1",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Mortis Engine",
+      "wounds": "12",
+      "models": "1",
+      "desc": "",
+      "points": "2"
+    },
+    {
+      "name": "Skeleton Warriors",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": ".75"
+    },
+    {
+      "name": "Grave Guard",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Black Knights",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Spirit Hosts",
+      "wounds": "9",
+      "models": "3",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Hexwraiths",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points": "1.5"
+    }
+  ],
+  "monsters": [
+    {
+      "name": "Terrorgheist",
+      "wounds": "14",
+      "desc": "",
+      "points": "3"
+    },
+    {
+      "name": "Zombie Dragon",
+      "wounds": "14",
+      "desc": "",
+      "points": "3.5"
+    }
+  ],
+  "formations": [
+    {
+      "name": "Deathrattle Horde",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Charnel Pit Carrion",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "2.5"
+    },
+    {
+      "name": "Legion of Death",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    },
+    {
+      "name": "Neferata's Blood-Court",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "heroes": [
+    {
+      "name": "Tamurkhan",
+      "wounds": "18",
+      "desc": "Monster",
+      "points" : "3.5"
+    },
+     {
+      "name": "Kayzk",
+      "wounds": "7",
+      "desc": "",
+      "points" : "1"
+    },
+     {
+      "name": "Sayl The Faithless",
+      "wounds": "6",
+      "desc": "Wizard",
+      "points" : "1.5"
+    }
+  ],
+  "units": [
+    {
+      "name": "Plague Ogres",
+      "wounds": "15",
+      "models": "3",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Bile Trolls",
+      "wounds": "15",
+      "models": "3",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Daemon Plague Toads",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Daemon Pox Riders",
+      "wounds": "15",
+      "models": "3",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Nightmaw",
+      "wounds": "6",
+      "models": "1",
+      "desc": "",
+      "points" : "1"
+    }
+  ],
+  "monsters": [
+    {
+      "name": "Gigantic Chaos Spawn",
+      "wounds": "12",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Chaos War Mammoth",
+      "wounds": "22",
+      "desc": "",
+      "points" : "4"
+    }
+  ],
+  "formations": [
+    {
+      "name": "Sons of the Maggot Lord",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    },
+    {
+      "name": "The Leaping Pox",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    }
+  ]
+}

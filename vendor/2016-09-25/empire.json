@@ -1,0 +1,325 @@
+{
+  "heroes": [
+    {
+      "name": "Karl Franz On Deathclaw",
+      "wounds": "13",
+      "desc": "Monster",
+      "points": "3.5"
+    },
+    {
+      "name": "Kurt Helborg",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Balthasar Gelt, The Supreme Patriarch",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points": "1.5"
+    },
+    {
+      "name": "Valten",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Marius Leitdorf",
+      "wounds": "6",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Freeguild General",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Empire General On Warhorse",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Freeguild General On Griffon",
+      "wounds": "13",
+      "desc": "Monster",
+      "points": "3"
+    },
+    {
+      "name": "Ludwig Schwarzhelm",
+      "wounds": "5",
+      "desc": "Totem",
+      "points": "1"
+    },
+    {
+      "name": "Markus Wulfhart",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Grand Master",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Gunmaster",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Master Engineer On Mechanical Steed",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Volkmar The Grim",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Luthor Huss, Prophet Of Sigmar",
+      "wounds": "5",
+      "desc": "Priest",
+      "points": "1"
+    },
+    {
+      "name": "Warrior Priest",
+      "wounds": "5",
+      "desc": "Priest",
+      "points": "1"
+    },
+    {
+      "name": "Excelsior Warpriest",
+      "wounds": "5",
+      "desc": "Priest",
+      "points": "1"
+    },
+    {
+      "name": "Witch Hunter",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Battlemage",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points": "1"
+    },
+    {
+      "name": "Battlemage On Griffon",
+      "wounds": "13",
+      "desc": "Wizard | Monster",
+      "points": "2.5"
+    },
+    {
+      "name": "War Altar Of Sigmar",
+      "wounds": "11",
+      "desc": "Priest | Monster",
+      "points": "3"
+    },
+    {
+      "name": "Celestial Hurricanum With Celestial Battlemage",
+      "wounds": "11",
+      "desc": "Wizard | Monster",
+      "points": "4"
+    },
+    {
+      "name": "Luminark Of Hysh With White Battlemage",
+      "wounds": "11",
+      "desc": "Wizard | Monster",
+      "points": "4.5"
+    }
+  ],
+  "units": [
+    {
+      "name": "Demigryph Knights",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points": "2"
+    },
+    {
+      "name": "Empire Knights",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Reiksguard Knights",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Freeguild Crossbowmen",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Freeguild Handgunners",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Freeguild Archers",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Freeguild Greatswords",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Freeguild Pistoliers",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Freeguild Outriders",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Freeguild Guard",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": ".75"
+    },
+    {
+      "name": "Free Company Militia",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Flagellants",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": ".75"
+    }
+  ],
+  "monsters": [
+    {
+      "name": "The War Altar Of Sigmar",
+      "wounds": "11",
+      "desc": "",
+      "points": "3"
+    },
+    {
+      "name": "Celestial Hurricanum",
+      "wounds": "11",
+      "desc": "",
+      "points": "3.5"
+    },
+    {
+      "name": "Luminark Of Hysh",
+      "wounds": "11",
+      "desc": "",
+      "points": "3"
+    }
+  ],
+  "warmachines": [
+    {
+      "name": "Steam Tank",
+      "wounds": "12",
+      "desc": "",
+      "points": "3.5"
+    },
+    {
+      "name": "Cannon",
+      "wounds": "4",
+      "desc": "",
+      "points": "2"
+    },
+    {
+      "name": "Mortar",
+      "wounds": "4",
+      "desc": "",
+      "points": "2"
+    },
+    {
+      "name": "Helblaster Volley Gun",
+      "wounds": "4",
+      "desc": "",
+      "points": "2"
+    },
+    {
+      "name": "Helstorm Rocket Battery",
+      "wounds": "4",
+      "desc": "",
+      "points": "2"
+    }
+  ],
+  "formations": [
+    {
+      "name": "State Troop Detachment",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Brotherhood of Knights",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Pilgrimage of Wrath",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "War Council",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Freeguild Regiment",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Artillery Detachment",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    }
+  ]
+
+}

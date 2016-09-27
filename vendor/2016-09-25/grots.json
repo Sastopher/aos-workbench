@@ -1,0 +1,234 @@
+{
+  "heroes": [
+    {
+      "name": "Grom The Paunch",
+      "wounds": "6",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Grot Warboss",
+      "wounds": "4",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Goblin Warboss",
+      "wounds": "4",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Gitmob Grot Shaman",
+      "wounds": "4",
+      "desc": "Wizard",
+      "points" : "1"
+    },
+    {
+      "name": "Skarsnik, Warlord Of The Eight Peaks",
+      "wounds": "6",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Moonclan Grot Warboss",
+      "wounds": "4",
+      "desc": "",
+      "points" : ".5"
+    },
+    {
+      "name": "Grot Warboss On Great Cave Squig",
+      "wounds": "6",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Moonclan Grot Shaman",
+      "wounds": "4",
+      "desc": "Wizard",
+      "points" : "1"
+    },
+    {
+      "name": "Grot Big Boss On Gigantic Spider",
+      "wounds": "6",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Arachnarok Spider With Grot Shaman",
+      "wounds": "14",
+      "desc": "Wizard",
+      "points" : "3"
+    }
+  ],
+  "units": [
+    {
+      "name": "Gitmob Grots",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points" : ".75"
+    },
+    {
+      "name": "Grot Wolf Riders",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Grot Wolf Chariots",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Nasty Skulkers",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points" : ".5"
+    },
+    {
+      "name": "Moonclan Grots",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Grot Fanatics",
+      "wounds": "3",
+      "models": "3",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Grot Squig Hoppers",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Grot Squig Herders",
+      "wounds": "3",
+      "models": "3",
+      "desc": "",
+      "points" : ".5"
+    },
+    {
+      "name": "Cave Squigs",
+      "wounds": "6",
+      "models": "3",
+      "desc": "",
+      "points" : ".5"
+    },
+    {
+      "name": "Grot Spider Riders",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Snotlings",
+      "wounds": "8",
+      "models": "2",
+      "desc": "",
+      "points" : ".5"
+    },
+    {
+      "name": "Snotling Pump Wagons",
+      "wounds": "4",
+      "models": "1",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Fellwater Troggoths",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Sourbreath Troggoths",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Rockgut Troggoths",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "2"
+    }
+  ],
+  "warmachines": [
+    {
+      "name": "Grot Spear Chukka",
+      "wounds": "7",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Grot Rock Lobber",
+      "wounds": "9",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Doom Diver Catapult",
+      "wounds": "9",
+      "desc": "",
+      "points" : "1.5"
+    }
+  ],
+  "monsters": [
+    {
+      "name": "Mangler Squigs",
+      "wounds": "10",
+      "desc": "",
+      "points" : "2.5"
+    },
+    {
+      "name": "Arachnarok Spider",
+      "wounds": "14",
+      "desc": "",
+      "points" : "3"
+    },
+    {
+      "name": "Aleguzzler Gargant",
+      "wounds": "12",
+      "desc": "",
+      "points" : "1.5"
+    }
+  ],
+  "formations": [
+    {
+      "name": "Great GitMob",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Great MoonClan",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Spiderfang VenomMob",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": ".5"
+    }
+  ]
+}

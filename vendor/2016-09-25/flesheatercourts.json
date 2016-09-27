@@ -1,0 +1,148 @@
+{
+  "heroes": [
+    {
+      "name": "Abhorrant Ghoul King",
+      "wounds": "6",
+      "desc": "Wizard",
+      "points": "1.5"
+    },
+    {
+      "name": "Abhorrant Ghoul King on Terrorgheist",
+      "wounds": "14",
+      "desc": "Wizard | Monster",
+      "points": "4"
+    },
+    {
+      "name": "Abhorrant Ghoul King on Zombie Dragon",
+      "wounds": "14",
+      "desc": "Wizard | Monster",
+      "points": "4"
+    },
+    {
+      "name": "Crypt Ghast Courtier",
+      "wounds": "6",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Crypt Haunter Courtier",
+      "wounds": "6",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Crypt Infernal Courtier",
+      "wounds": "6",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Varghulf Courtier",
+      "wounds": "8",
+      "desc": "",
+      "points": "1"
+    }
+  ],
+  "units": [
+    {
+      "name": "Crypt Ghouls",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Crypt Horrors",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Crypt Flayers",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points": "1.5"
+    }
+  ],
+  "monsters": [
+    {
+      "name": "Terrorgheist",
+      "wounds": "14",
+      "desc": "",
+      "points": "3"
+    },
+    {
+      "name": "Zombie Dragon",
+      "wounds": "14",
+      "desc": "",
+      "points": "3.5"
+    }
+  ],
+  "formations": [
+    {
+      "name": "Abattoir",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Attendants at Court",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Deadwatch",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Flesh-eater Court",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Ghoul Patrol",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "King's Ghouls",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Royal Family",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Royal Menagerie",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Royal Mordants",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    }
+  ]
+}

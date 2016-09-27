@@ -1,0 +1,143 @@
+{
+  "heroes": [
+   
+  ],
+  "units": [
+    {
+      "name": "Skin Wolves",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Wolf Rats",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Fimir Warriors",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "2"
+    }
+  ],
+  "monsters": [
+    {
+      "name": "Brood Horror",
+      "wounds": "8",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Curs'd Ettin",
+      "wounds": "10",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Preyton",
+      "wounds": "8",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Skaven Warlord on Brood Horror",
+      "wounds": "8",
+      "desc": "",
+      "points" : "2.5"
+    },
+    {
+      "name": "Warpfire Dragon",
+      "wounds": "12",
+      "desc": "",
+      "points" : "2.5"
+    },
+    {
+      "name": "Mourngul",
+      "wounds": "10",
+      "desc": "",
+      "points" : "3"
+    },
+    {
+      "name": "Basilisk",
+      "wounds": "10",
+      "desc": "",
+      "points" : "2.5"
+    },
+    {
+      "name": "Bonegrinder Giant",
+      "wounds": "10",
+      "desc": "",
+      "points" : "3.5"
+    },
+    {
+      "name": "Colossal Squig",
+      "wounds": "16",
+      "desc": "",
+      "points" : "3"
+    },
+    {
+      "name": "Dread Maw",
+      "wounds": "10",
+      "desc": "",
+      "points" : "4"
+    },
+    {
+      "name": "Incarnate Elemental of Beasts",
+      "wounds": "10",
+      "desc": "",
+      "points" : "3"
+    },
+    {
+      "name": "Incarnate Elemental of Fire",
+      "wounds": "10",
+      "desc": "",
+      "points" : "3"
+    },
+    {
+      "name": "Magma Dragon",
+      "wounds": "10",
+      "desc": "",
+      "points" : "6"
+    },
+    {
+      "name": "Merwyrm",
+      "wounds": "10",
+      "desc": "",
+      "points" : "3"
+    },
+    {
+      "name": "Rogue Idol",
+      "wounds": "10",
+      "desc": "",
+      "points" : "4"
+    },
+    {
+      "name": "Troll Hag",
+      "wounds": "10",
+      "desc": "",
+      "points" : "3"
+    },
+    {
+      "name": "Carmine Dragon",
+      "wounds": "14",
+      "desc": "",
+      "points" : "3"
+    }
+  ],
+  "warmachines": [
+    {
+      "name": "Squig Gobba",
+      "wounds": "10",
+      "desc": "",
+      "points" : "1.5"
+    }
+  ],
+  "formations": [
+
+  ]
+}

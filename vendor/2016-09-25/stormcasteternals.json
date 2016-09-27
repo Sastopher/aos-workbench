@@ -1,0 +1,286 @@
+{
+  "heroes": [
+    {
+      "name": "Lord Celestant On Dracoth",
+      "wounds": "7",
+      "desc": "",
+      "points" : "2.5"
+    },
+    {
+      "name": "Lord Celestant On Stardrake",
+      "wounds": "16",
+      "desc": "Monster",
+      "points" : "5"
+    },
+    {
+      "name": "Drakesworn Templar",
+      "wounds": "16",
+      "desc": "Monster",
+      "points" : "4.5"
+    },
+    {
+      "name": "Lord Celestant",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Lord Relictor",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Lord Castellant",
+      "wounds": "6",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Celestant-Prime",
+      "wounds": "8",
+      "desc": "",
+      "points" : "3.5"
+    },
+    {
+      "name": "Knight Vexillor",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Knight Heraldor",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Knight Azyros",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Knight Venator",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Knight Questor",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1.5"
+    }
+  ],
+  "units": [
+    {
+      "name": "Gryph-Hound",
+      "wounds": "2",
+      "models": "2",
+      "desc": "",
+      "points" : ".5"
+    },
+    {
+      "name": "Prosecutors with Stormcall Javelins",
+      "wounds": "6",
+      "models": "3",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Prosecutors with Celestial Hammers",
+      "wounds": "6",
+      "models": "3",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Paladin Retributors",
+      "wounds": "15",
+      "models": "5",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Liberators",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Judicators",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Concussors",
+      "wounds": "5",
+      "models": "1",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Desolators",
+      "wounds": "5",
+      "models": "1",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Tempestors",
+      "wounds": "5",
+      "models": "1",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Fulminators",
+      "wounds": "5",
+      "models": "1",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Paladin Protectors",
+      "wounds": "15",
+      "models": "5",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Paladin Decimators",
+      "wounds": "15",
+      "models": "5",
+      "desc": "",
+      "points" : "2"
+    }
+  ],
+  "monsters": [
+
+  ],
+  "formations": [
+    {
+      "name": "Exemplar Chamber",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "2"
+    },
+    {
+      "name": "Thunderstrike Brotherhood",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "2"
+    },
+    {
+      "name": "Annihilation Brotherhood",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Devestation Brotherhood",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Hammerstrike Force",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Heroes of the Host",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Lords of the Storm",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "The Skyborne Slayers",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "The Host Azyric",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Thunderhead Brotherhood ",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Vanguard Wing",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Grymn's Brotherhood",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "2"
+    },
+    {
+      "name": "Drakesworn Temple",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "2"
+    },
+    {
+      "name": "Extrenis Chamber",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1.5"
+    },
+    {
+      "name": "Knights Excelsior Vengeful Storm",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1.5"
+    },
+    {
+      "name": "Lightning Echelon",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "2"
+    },
+    {
+      "name": "Thunderwave Echelon",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "2"
+    }
+  ]
+}

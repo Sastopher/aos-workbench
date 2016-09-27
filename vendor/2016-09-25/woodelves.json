@@ -1,0 +1,212 @@
+{
+  "heroes": [
+    {
+      "name": "Araloth",
+      "wounds": "5",
+      "desc": "Wanderer",
+      "points": "1"
+    },
+    {
+      "name": "Glade Captain Battle Standard Bearer",
+      "wounds": "5",
+      "desc": "Wanderer",
+      "points": "1"
+    },
+    {
+      "name": "Nomad Prince",
+      "wounds": "5",
+      "desc": "Wanderer",
+      "points": "1"
+    },
+    {
+      "name": "Glade Lord on Great Eagle",
+      "wounds": "7",
+      "desc": "Wanderer",
+      "points": "1"
+    },
+    {
+      "name": "Glade Lord on Great Stag",
+      "wounds": "7",
+      "desc": "Wanderer",
+      "points": "1"
+    },
+    {
+      "name": "Glade Lord on Forest Dragon",
+      "wounds": "12",
+      "desc": "Wanderer | Monster",
+      "points": "4"
+    },
+    {
+      "name": "Mounted Glade Lord",
+      "wounds": "5",
+      "desc": "Wanderer",
+      "points": "1"
+    },
+    {
+      "name": "Orion, King in the Woods",
+      "wounds": "8",
+      "desc": "Wanderer | Monster",
+      "points": "2"
+    },
+    {
+      "name": "The Sisters of Twilight on Forest Dragon",
+      "wounds": "12",
+      "desc": "Wanderer | Monster",
+      "points": "4"
+    },
+    {
+      "name": "Spellweaver",
+      "wounds": "5",
+      "desc": "Wanderer | Wizard",
+      "points": "1"
+    },
+    {
+      "name": "Spellweaver on Purebred Steed",
+      "wounds": "5",
+      "desc": "Wanderer | Wizard",
+      "points": "1"
+    },
+    {
+      "name": "Shadowdancer",
+      "wounds": "5",
+      "desc": "Wanderer | Wizard",
+      "points": "1"
+    },
+    {
+      "name": "Waywatcher",
+      "wounds": "5",
+      "desc": "Wanderer",
+      "points": "1"
+    },
+    {
+      "name": "Wayfinder",
+      "wounds": "5",
+      "desc": "Wanderer",
+      "points": "1"
+    },
+    {
+      "name": "Waystrider",
+      "wounds": "5",
+      "desc": "Wanderer",
+      "points": "1"
+    }
+  ],
+  "units": [
+    {
+      "name": "Hunting Hounds",
+      "wounds": "4",
+      "models": "2",
+      "desc": "Hunting Hounds",
+      "points": ".5"
+    },
+    {
+      "name": "Wild Riders",
+      "wounds": "10",
+      "models": "5",
+      "desc": "Wanderer",
+      "points": "1"
+    },
+    {
+      "name": "Wardancers",
+      "wounds": "5",
+      "models": "5",
+      "desc": "Wanderer",
+      "points": ".5"
+    },
+    {
+      "name": "Waywatchers",
+      "wounds": "5",
+      "models": "5",
+      "desc": "Wanderer",
+      "points": "1"
+    },
+    {
+      "name": "Glade Guard",
+      "wounds": "10",
+      "models": "10",
+      "desc": "Wanderer",
+      "points": "1.5"
+    },
+    {
+      "name": "Sisters of the Watch",
+      "wounds": "10",
+      "models": "10",
+      "desc": "Wanderer",
+      "points": "1.5"
+    },
+    {
+      "name": "Glade Riders",
+      "wounds": "10",
+      "models": "5",
+      "desc": "Wanderer",
+      "points": "1"
+    },
+    {
+      "name": "Eternal Guard",
+      "wounds": "10",
+      "models": "10",
+      "desc": "Wanderer",
+      "points": "1"
+    },
+    {
+      "name": "Wildwood Rangers",
+      "wounds": "5",
+      "models": "5",
+      "desc": "Wanderer",
+      "points": ".5"
+    },
+    {
+      "name": "Warhawk Riders",
+      "wounds": "8",
+      "models": "2",
+      "desc": "Wanderer",
+      "points": "1"
+    },
+    {
+      "name": "Sisters of the Thorn",
+      "wounds": "10",
+      "models": "5",
+      "desc": "Wanderer",
+      "points": "1.5"
+    },
+    {
+      "name": "Great Eagles",
+      "wounds": "4",
+      "models": "1",
+      "desc": "Great Eagles",
+      "points": ".5"
+    },
+    {
+      "name": "Tree Kin",
+      "wounds": "12",
+      "models": "3",
+      "desc": "Sylvaneth",
+      "points": "1.5"
+    }
+  ],
+  "monsters": [
+  ],
+  "formations": [
+    {
+      "name": "Guardians of the Deepwood",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Wanderer Host",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Waystone Pathfinders",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    }
+  ]
+}

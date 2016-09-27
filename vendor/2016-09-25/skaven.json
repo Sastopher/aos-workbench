@@ -1,0 +1,395 @@
+{
+  "heroes": [
+    {
+      "name": "Thanquol and Boneripper",
+      "wounds": "13",
+      "desc": "Wizard",
+      "points": "4.5"
+    }, 
+    {
+      "name": "Grey Seer",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points": "1"
+    }, 
+    {
+      "name": "Deathrunner",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points": "1"
+    }, 
+    {
+      "name": "Screaming Bell",
+      "wounds": "12",
+      "desc": "Wizard",
+      "points": "2"
+    }, 
+    {
+      "name": "Lord Skreech Verminkin",
+      "wounds": "12",
+      "desc": "Wizard | Monster",
+      "points": "2.5"
+    }, 
+    {
+      "name": "Verminlord Warbringer",
+      "wounds": "12",
+      "desc": "Wizard | Monster",
+      "points": "2.5"
+    }, 
+    {
+      "name": "Verminlord Corruptor",
+      "wounds": "12",
+      "desc": "Wizard | Monster",
+      "points": "2"
+    }, 
+    {
+      "name": "Verminlord Deceiver",
+      "wounds": "12",
+      "desc": "Wizard | Monster",
+      "points": "2.5"
+    }, 
+    {
+      "name": "Verminlord Warpseer",
+      "wounds": "12",
+      "desc": "Wizard | Monster",
+      "points": "3"
+    }, 
+    {
+      "name": "Queek Headtaker",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    }, 
+    {
+      "name": "Warlord Spinetail",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    }, 
+    {
+      "name": "Tretch Craventail",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    }, 
+    {
+      "name": "Skaven Warlord",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    }, 
+    {
+      "name": "Skaven Chieftain With Battle Standard",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    }, 
+    {
+      "name": "Ikit Claw",
+      "wounds": "6",
+      "desc": "Wizard",
+      "points": "1.5"
+    }, 
+    {
+      "name": "Warlock Engineer",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points": "1"
+    }, 
+    {
+      "name": "Throt The Unclean",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    }, 
+    {
+      "name": "Packmaster Skweel Gnawtooth",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    }, 
+    {
+      "name": "Packmaster",
+      "wounds": "3",
+      "desc": "",
+      "points": ".5"
+    }, 
+    {
+      "name": "Lord Skrolk",
+      "wounds": "5",
+      "desc": "Priest",
+      "points": "1"
+    }, 
+    {
+      "name": "Plague Priest with Plague Censer",
+      "wounds": "5",
+      "desc": "Priest",
+      "points": "1"
+    }, 
+    {
+      "name": "Plague Priest with Warpstone-tipped Staff",
+      "wounds": "5",
+      "desc": "Priest",
+      "points": "1"
+    }, 
+    {
+      "name": "Plague Furnace",
+      "wounds": "12",
+      "desc": "Priest",
+      "points": "2"
+    }, 
+    {
+      "name": "Deathmaster Snikch",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    }, 
+    {
+      "name": "Skaven Assassin",
+      "wounds": "5",
+      "desc": "",
+      "points": "1.5"
+    }, 
+    {
+      "name": "Arch Warlock",
+      "wounds": "6",
+      "desc": "",
+      "points": "1.5"
+    }
+  ],
+  "units": [
+    {
+      "name": "Clanrats",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": ".75"
+    },
+    {
+      "name": "Stormvermin",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Skavenslaves",
+      "wounds": "20",
+      "models": "20",
+      "desc": "",
+      "points": "1.25"
+    },
+    {
+      "name": "Doom Flayer Weapon Team",
+      "wounds": "3",
+      "models": "1",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Ratling Gun Weapon Team",
+      "wounds": "3",
+      "models": "1",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Warpfire Thrower Weapon Team",
+      "wounds": "3",
+      "models": "1",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Warp Grinder Weapon Team",
+      "wounds": "3",
+      "models": "1",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Poisoned Wind Mortar Weapon Team",
+      "wounds": "3",
+      "models": "1",
+      "desc": "",
+      "points": ".5"
+    },
+    {
+      "name": "Skryre Acolytes",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Warplock Jezzails",
+      "wounds": "6",
+      "models": "3",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Stormfiends",
+      "wounds": "18",
+      "models": "3",
+      "desc": "",
+      "points": "3"
+    },
+    {
+      "name": "Giant Rats",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points": ".5"
+    },
+    {
+      "name": "Rat Swarms",
+      "wounds": "4",
+      "models": "1",
+      "desc": "",
+      "points": ".5"
+    },
+    {
+      "name": "Rat Ogors",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Plague Monks",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points": ".5"
+    },
+    {
+      "name": "Plague Censer Bearers",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Night Runners",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Gutter Runners",
+      "wounds": "3",
+      "models": "3",
+      "desc": "",
+      "points": ".5"
+    }
+  ],
+  "warmachines": [
+    {
+      "name": "Doomwheel",
+      "wounds": "8",
+      "desc": "",
+      "points": "2"
+    },
+    {
+      "name": "Warp Lightning Cannon",
+      "wounds": "6",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Plagueclaw",
+      "wounds": "6",
+      "desc": "",
+      "points": "1.5"
+    }
+  ],
+  "monsters": [
+    {
+      "name": "Hell Pit Abomination",
+      "wounds": "12",
+      "desc": "",
+      "points": "2"
+    }
+  ],
+  "formations": [
+    {
+      "name": "Verminus Clawpack",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": ".5"
+    },
+    {
+      "name": "Moulder Clawpack",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": ".5"
+    },
+    {
+      "name": "Pestilent Clawpack",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": ".5"
+    },
+    {
+      "name": "Congregation of Filth",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": ".5"
+    },
+    {
+      "name": "Foulrain Congregation",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": ".5"
+    },
+    {
+      "name": "Plaguesmog Congregation",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Virulent Procession",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": ".5"
+    },
+    {
+      "name": "Eshin Clawpack",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": ".5"
+    },
+    {
+      "name": "Clan Skryre",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "2.5"
+    },
+    {
+      "name": "Bringers of Rotsmog",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": ".5"
+    },
+    {
+      "name": "Skulkers of Runestruck Pass",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": ".5"
+    }
+  ]
+}

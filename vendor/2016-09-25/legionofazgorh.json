@@ -1,0 +1,158 @@
+{
+  "heroes": [
+    {
+      "name": "Drazhoath The Ashen",
+      "wounds": "13",
+      "desc": "Wizard | Monster",
+      "points" : "3"
+    },
+    {
+      "name": "Infernal Guard Castellan",
+      "wounds": "5",
+      "desc": "",
+      "points" : ".5"
+    },
+    {
+      "name": "Infernal Guard Battle Standard",
+      "wounds": "4",
+      "desc": "",
+      "points" : ".5"
+    },
+    {
+      "name": "Daemonsmith",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "1"
+    },
+    {
+      "name": "Bull Centaur Taur'uk",
+      "wounds": "7",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Goblin Warboss",
+      "wounds": "4",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Shar'tor the Executioner",
+      "wounds": "8",
+      "desc": "",
+      "points" : "1"
+    }
+  ],
+  "units": [
+    {
+      "name": "Infernal Guard Ironsworn",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points" : ".5"
+    },
+    {
+      "name": "Infernal Guard Fireglaives",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "K'Daai Fireborn",
+      "wounds": "9",
+      "models": "3",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Bull Centaur Renders",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Grots",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points" : ".75"
+    },
+    {
+      "name": "Grot Wolf Riders",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    }
+  ],
+  "warmachines": [
+    {
+      "name": "Iron Daemon",
+      "wounds": "11",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Skullcracker",
+      "wounds": "11",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Deathshrieker",
+      "wounds": "6",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Dreadquake Mortar",
+      "wounds": "6",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Magma Cannon",
+      "wounds": "6",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Hellcannon",
+      "wounds": "10",
+      "desc": "",
+      "points" : "3.5"
+    }
+  ],
+  "monsters": [
+    {
+      "name": "Chaos Siege Giant",
+      "wounds": "12",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Lammasu",
+      "wounds": "8",
+      "desc": "",
+      "points" : "2"
+    }
+  ],
+  "formations": [
+    {
+      "name": "Blackshard Warhost",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Hashut's Wrath Artillery Train",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    }
+  ]
+}

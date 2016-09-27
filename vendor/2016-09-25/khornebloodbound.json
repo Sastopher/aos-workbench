@@ -1,0 +1,212 @@
+{
+  "heroes": [
+    {
+      "name": "Mighty Lord Of Khorne",
+      "wounds": "6",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Bloodsecrator",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Bloodstoker",
+      "wounds": "5",
+      "desc": "",
+      "points" : ".5"
+    },
+    {
+      "name": "Skullgrinder",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Skarr Bloodwrath",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Valkia The Bloody",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Scyla Anfingrimm",
+      "wounds": "8",
+      "desc": "Monster",
+      "points" : "1"
+    },
+    {
+      "name": "Lord Of Khorne On Juggernaut",
+      "wounds": "8",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Khorne Exalted Hero",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Slaughterpriest",
+      "wounds": "6",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Exalted Deathbringer",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Aspiring Deathbringer",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Skaarac the Bloodborn",
+      "wounds": "5",
+      "desc": "",
+      "points" : "4"
+    }
+  ],
+  "units": [
+    {
+      "name": "Blood Warriors",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Wrathmongers",
+      "wounds": "15",
+      "models": "5",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Bloodreavers",
+      "wounds": "20",
+      "models": "20",
+      "desc": "",
+      "points" : "1.25"
+    },
+    {
+      "name": "Khorgoraths",
+      "wounds": "8",
+      "models": "1",
+      "desc": "Monster",
+      "points" : "1.5"
+    },
+    {
+      "name": "Skullreapers",
+      "wounds": "15",
+      "models": "5",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Mighty Skullcrushers",
+      "wounds": "15",
+      "models": "3",
+      "desc": "",
+      "points" : "1.5"
+    }
+
+  ],
+  "warmachines": [
+
+  ],
+  "monsters": [
+    
+  ],
+  "formations": [
+    {
+      "name": "Ravagers of Ruin Keep",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "3"
+    },
+    {
+      "name": "Goreblade Warband",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    },
+    {
+      "name": "Vengeful Skullhunt",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    },
+    {
+      "name": "Bloodbound Warhorde",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1.5"
+    },
+    {
+      "name": "Bloodstorm",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    },
+    {
+      "name": "Brass Stampede",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    },
+    {
+      "name": "Dark Feast",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1.5"
+    },
+    {
+      "name": "Red Headsmen",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    },
+    {
+      "name": "Skulltake",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "The Gorechosen",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Bloodbound Warband",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    }    
+  ]
+}

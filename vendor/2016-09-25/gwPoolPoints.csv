@@ -1,0 +1,841 @@
+name,profile,size,points
+Beastlord,Brayherd,1,80
+Bullgor Stampede,Battalion,Formation,120
+Bullgors,Warherd - Warherd Battleline,3,180
+Centigors,,5,80
+Chaos Warhounds,,10,80
+Cygor,Warherd - Behemoth,1,200
+Doombull,Warherd,1,120
+Furious Brayherd,Battalion,Formation,60
+Ghorgon,Warherd - Behemoth,1,220
+Ghorros Warhoof,Unique,1,100
+Gors,Brayherd - Battleline,10,80
+Gorthor the Beastlord,Unique,1,180
+Great Bray-shaman,Brayherd,1,100
+Harpies,,5,80
+Jabberslythe,Behemoth,1,140
+Khazrak the One-Eye,Unique,1,120
+Malagor the Dark Omen,Unique,1,120
+Morghur Master of Skulls,Unique,1,120
+Razorgores,,1,60
+Ungor Raiders,Brayherd - Brayherd Battleline,10,80
+Ungor Raiders Ambush,Battalion,Formation,100
+Ungors,Brayherd - Battleline,10,60
+Wargor Standard Bearer,,1,80
+Wildstalker Brayherd,Battalion,Formation,140
+Bestigors,Brayherd,10,140
+Tuskgor Chariots,Brayherd,1,60
+The Fay Enchantress,Unique ,1,160
+The Green Knight,Unique ,1,200
+Mounted Yeomen,,5,100
+Peasant Bowmen,,16,200
+Pegasus Knights,,3,200
+Questing Knights,,5,180
+Defenders of the Realm,Battalion,Formation,40
+Peasant Militia,Battalion,Formation,60
+Bretonnian Lord,,1,140
+Damsel of the Lady,,1,100
+Field Trebuchet,Artillery,1,220
+Knights Errant,Battleline,8,200
+Knights of the Realm,Battleline,8,220
+Men-at-Arms,Battleline,16,120
+Paladin,,1,80
+Paladin Standard Bearer,,1,80
+Battle Pilgrims,,6,80
+Grail Knights,,5,180
+King Louen Leoncoeur,Unique ,1,400
+Hellcannon,Artillery,1,300
+Blood Host of Khorne,Battalion,Formation,120
+Blood Throne,Khorne Daemon,1,120
+Bloodletters,Khorne Daemon - Battleline,10,100
+Bloodmaster Herald of Khorne,Khorne Daemon,1,80
+Bloodthirster of Insensate Rage,Khorne Daemon - Behemoth,1,280
+Bloodthirster of Unfettered Fury,Khorne Daemon - Behemoth,1,300
+Changehost of Tzeentch,Battalion,Formation,60
+Daemonettes of Slaanesh,Battleline,10,120
+Daemon Cohort of Khorne,Battalion,Formation,80
+Daemon Cohort of Nurgle,Battalion,Formation,100
+Daemon Cohort of Slaneesh,Battalion,Formation,40
+Daemon Cohort of Tzeentch,Battalion,Formation,120
+Flesh Hounds,Khorne Daemon - Khorne Demon Battleline,5,100
+Great Unclean One,Nurgle Daemon - Behemoth,1,240
+Herald of Nurgle,Nurgle Daemon,1,100
+Herald of Slaanesh,Host Of Slaanesh,1,60
+Herald of Slaanesh on Exalted Seeker Chariot,Host Of Slaanesh,1,160
+Herald of Slaanesh on Seeker Chariot,Host Of Slaanesh,1,100
+Herald of Tzeentch,Tzeentch Daemon,1,120
+Herald of Tzeentch on Burning Chariot,Tzeentch Daemon,1,200
+Herald of Tzeentch on Disc,Tzeentch Daemon,1,120
+Karanak,Khorne Daemon,1,100
+Keeper of Secrets,Host Of Slaanesh - Behemoth,1,280
+Mutalith Vortex Beast,Behemoth,1,220
+Pink Horrors of Tzeentch,Tzeentch Daemon - Battleline,10,140
+Plaguebearers of Nurgle,Nurgle Daemon - Battleline,10,100
+Skarbrand,Khorne Daemon - Behemoth,1,400
+Skull Cannons,Artillery,1,180
+Skullmaster Herald of Khorne,Khorne Daemon,1,100
+Skulltaker,Khorne Daemon,1,100
+Slaughterbrute,Behemoth,1,200
+Soul Grinder,Chaos Daemon - Behemoth,1,280
+Tallyband of Nurgle,Battalion,Formation,100
+Wrath of Khorne Bloodthirster,Khorne Daemon - Behemoth,1,360
+Be'lakor Chaos Daemon Prince,Chaos Daemon - Unique Behemoth,1,240
+Beasts of Nurgle,Nurgle Daemon,1,60
+Burning Chariots of Tzeentch,Tzeentch Daemon - Tzeentch Demon Battleline,1,160
+Epidemius,Nurgle Daemon - Unique ,1,180
+Exalted Flamers of Tzeentch,Tzeentch Daemon,1,120
+Exalted Seekers of Slaanesh,Host Of Slaanesh,1,140
+Festus the Leechlord,Unique ,1,120
+Fiends of Slaanesh,Host Of Slaanesh,1,60
+Flamers of Tzeentch,Tzeentch Daemon,3,200
+Furies,Chaos Daemon,5,60
+Gutrot Spume,Unique ,1,120
+Kairos Fateweaver,Tzeentch Daemon - Unique Behemoth,1,300
+Lord of Plagues,,1,100
+Nurglings,Nurgle Daemon,3,80
+Plague Drones of Nurgle,Nurgle Daemon,3,220
+Screamers of Tzeentch,Tzeentch Daemon,3,140
+Seeker Chariots of Slaanesh,Host Of Slaanesh,1,80
+Seekers of Slaanesh,Host Of Slaanesh,5,120
+The Blue Scribes,Tzeentch Daemon - Unique ,1,120
+The Changeling,Tzeentch Daemon - Unique ,1,140
+The Glottkin,Unique Behemoth,1,480
+The Masque of Slaanesh,Host Of Slaanesh - Unique ,1,80
+Bloodcrushers,Khorne Daemon - Khorne Daemon Battleline,3,160
+Daemon Prince,Chaos Daemon - Behemoth,1,160
+Lord of Change,Tzeentch Daemon - Behemoth,1,260
+Beasmaster on Manticore,Unique ,1,140
+Black Ark Corsairs,Scourge Privateers - Scourge Privateers Battleline,10,100
+Black Ark Fleetmaster,Scourge Privateers,1,40
+Bleakswords,Darkling Covens - Battleline,10,100
+Bloodwrack Shrine,Daughters of Khaine - Behemoth,1,140
+Bloodwrack Sisterhood,Daughters of Khaine - Battalion,Formation,40
+Cauldron of Blood,Daughters of Khaine - Behemoth,1,220
+Darkshards,Darkling Covens - Battleline,10,100
+Death Hag,Daughters of Khaine,1,60
+Dreadlord,,1,100
+Dreadlord on Cold One,,1,100
+Dreadspears,Darkling Covens - Battleline,10,80
+Exiled Blood Cult,Battalion,Formation,80
+Exiled Warhost,Battalion,Formation,60
+Hellebron,Unique ,1,100
+Kharibdyss,Scourge Privateers - Behemoth,1,200
+Lolkhir Fellhart,Unique ,1,80
+Malus Darkblade,Unique ,1,120
+Master with Battle Standard,,1,80
+Morathi,Unique ,1,220
+Realm Reavers,Scourge Privateers - Battalion,Formation,80
+Reaper Bolt Thrower,Artillery,1,120
+Shadowblade,Unique ,1,120
+Sorceress,Darkling Covens,1,80
+Sorceress on Black Dragon,Darkling Covens - Behemoth,1,340
+Sorceress on Cold One,Behemoth,1,100
+Thrall Warhost,Darkling Covens - Battalion,Formation,80
+Witch Aelves,Daughters of Khaine - Daughters of Khaine Battleline,10,140
+War Hydra,Order Serpentis  -Behemoth,1,240
+Dreadlord on Black Dragon,Order Serpentis - Behemoth,1,340
+Drakespawn Chariots,Order Serpentis,1,100
+Drakespawn Knights,Order Serpentis - Order Serpentis Battleline,5,160
+Ebondrake Warhost,Order Serpentis - Battalion,Formation,60
+Black Guard,Darkling Covens,10,180
+Bloodwrack Medusae,Daughters of Khaine,1,120
+Doomfire Warlocks,Daughters of Khaine,5,200
+Executioners,Darkling Covens,10,200
+Grave Guard,,5,80
+Shades,,5,100
+Aelf Harpies,,5,60
+Malekith the Witch King,,1,640
+Scourgerunner Chariots,Scourge Privateers,1,100
+Sisters of Slaughter,Daughters of Khaine,10,160
+Assassin,Shadowblades,1,80
+Dark Riders,Shadowblades - Shadowblades Battleline,5,140
+Mistweaver Saih,,1,80
+Tenebrael Shard,,1,120
+Cogsmith,,1,100
+Artillery Detachment,Battalion,Formation,40
+Auric Hearthguard,Fyreslayer Battleline,5,100
+Auric Runefather,,1,100
+Auric Runefather on Magmadroth,Behemoth,1,320
+Auric Runemaster,,1,80
+Auric Runesmiter,,1,100
+Auric Runesmiter on Magmadroth,Behemoth,1,220
+Auric Runeson,,1,80
+Auric Runeson on Magmadroth,Behemoth,1,280
+Battlesmith,,1,100
+Belegar Ironhammer,Unique ,1,140
+Cannon,Artillery,1,180
+Dispossessed Artillery Battery,Battalion,Formation,40
+Dispossessed Clan Throng,Battalion,Formation,60
+Dwarf Bolt Thrower,Artillery,1,120
+Dwarf Engineer,,1,80
+Dwarf Lord with Shieldbearers,,1,160
+Dwarf Warriors ,Battleline,10,100
+Flame Cannon,Artillery,1,200
+Forge Brethren,Battalion,Formation,80
+Grand Fyrd,Battalion,Formation,80
+Grimm Burloksson,Unique ,1,100
+Grimwrath Berzerker,,1,100
+Grudge Thrower,Artillery,1,180
+Grudgebound War Throng,Battalion,Formation,60
+Gyrobombers,,1,80
+Gyrocopters,,1,80
+Hammerers,,10,200
+Hearthguard Berzerkers,Fyreslayer Battleline,5,100
+High King Thorgrim Grudgebearer,Unique ,1,220
+Kraggi,Unique ,1,20
+Ironbreakers,,10,160
+Irondrakes,,10,220
+Josef Bugman,Unique ,1,100
+Longbeards,Battleline,10,140
+Lords of the Lodge,Battalion,Formation,160
+Miners,,10,120
+Organ Gun,Artillery,1,120
+Quarrellers,,10,120
+Runelord,,1,80
+Slayers,,5,60
+Thane with Battle Standard,,1,80
+Thorek Ironbrow,Unique ,1,140
+Thunderers,,10,120
+Unforged,,1,100
+Ungrim Ironfist the Slayer King,Unique ,1,100
+Vulkite Berzerkers,Battleline,5,80
+Warden King,,1,120
+Warrior Kinband,Battalion,Formation,40
+Doomseeker,,1,100
+Balthasar Gelt the Supreme Patriarch,,1,160
+Battlemage,,1,100
+Battlemage on Griffon,Behemoth,1,280
+Brotherhood of Knights,,,80
+Cannon,Artillery,1,180
+Celestial Hurricanum,Behemoth,1,320
+Demigryph Knights,,3,200
+Empire Knights,,5,140
+Mortar,Artillery,1,140
+Flagellants,Devoted of Sigmar Battleline,10,80
+Freeguild Archers,Battleline,10,100
+Freeguild Crossbowmen,Battleline,10,100
+Freeguild General,,1,100
+Freeguild General on Griffon,Behemoth,1,300
+Freeguild Greatswords,,10,160
+Freeguild Guard,Battleline,10,80
+Freeguild Handgunners,Battleline,10,100
+Freeguild Outriders,,5,140
+Freeguild Pistoliers,,5,140
+Freeguild Regiment,Battalion,Formation,100
+Grand Master,,1,100
+Gunmaster,,1,80
+Helblaster Volley Gun,Artillery,1,120
+Helstorm Rocket Battery,Artillery,1,180
+Karl Franz on Deathclaw,Behemoth,1,460
+Kurt Helborg,,1,100
+Ludwig Schwarzhelm,,1,100
+Luminark of Hysh,Behemoth,1,240
+Luthor Huss Prophet of Sigmar,,1,100
+Marius Leitdorf,,1,100
+Markus Wulfhart,,1,80
+Master Engineer on Mechanical Steed,,1,80
+Pilgrimage of Wrath,Battalion,Formation,60
+Reiksguard Knights,,5,140
+State Troop Detachment,,,120
+Steam Tank,Behemoth,1,300
+Valten,,1,120
+Volkmar the Grim,,1,100
+War Altar of Sigmar,Behemoth,1,300
+War Council,Battalion,Formation,200
+Warrior Priest,,1,80
+Witch Hunter,,1,60
+Excelsior Warpriest,,1,80
+Alarielle the Radiant,Unique ,1,200
+Alith Anar the Shadow King,Unique ,1,120
+Anointed,,1,80
+Archmage,,1,120
+Archmage on Dragon,Behemoth,1,360
+Caradryan,Unique ,1,100
+Chariots,,1,80
+Dragon Blades,Order Draconis Battleline,5,160
+Dragon Host,Batallion,Formation,80
+Dragon Noble,,1,100
+Dragonlord,Behemoth,1,400
+Dragonlord Host,Battalion,Formation,80
+Drakeseer,Behemoth,1,340
+Ellyrian Reavers,Battleline,5,160
+Eltharion on Stormwing,Unique Behemoth,1,340
+Flamespyre Phoenix,Behemoth if Mounted,1,280
+Frostheart Phoenix,Behemoth if Mounted,1,260
+Glittering Host,Batallion,Formation,60
+Great Eagles,,1,60
+Handmaiden of the Everqueen,,1,100
+High Elf Archers,,10,100
+High Elf Prince on Griffon,Behemoth,1,220
+High Elf Repeater Bolt Thrower,Artillery,1,120
+High Elf Spearmen,Battleline,10,80
+Korhil,Unique ,1,80
+Loremaster,,1,100
+Lothern Sea Guard,,10,120
+Lothern Sea Helm,,1,100
+Phoenix Guard,Phoenix Temple Battleline,10,200
+Prince Althran,Unique ,1,80
+Prince Imrik Dragonlord,Unique Behemoth,1,440
+Shadow Warriors,Swifthawk Agents Battleline,10,200
+Silver Helms,Battleline,5,140
+Skycutters,,1,120
+Skywarden,,1,160
+Spyreheart Warhost,Battalion,Formation,100
+Swordmasters,Eldritch Council Battleline,10,200
+Teclis,Unique ,1,200
+Tyrion,Unique ,1,260
+White Lion Chariots,,1,120
+White Lions,,10,180
+Aspiring Deathbringer,Khorne Mortal,1,80
+Aspiring Deathbringer with Goreaxe and Skullhammer,Khorne Mortal,1,80
+Blood Warriors,Khorne Mortal - Battleline,5,100
+Bloodbound Warband,Battalion,Formation,120
+Bloodbound Warhorde,Battalion,Formation,120
+Bloodreavers,Khorne Mortal - Battleline,10,60
+Bloodsecrator,Khorne Mortal,1,120
+Bloodstoker,Khorne Mortal,1,80
+Bloodstorm,Battalion,Formation,140
+Brass Stampede,Battalion,Formation,80
+Dark Feast,Battalion,Formation,100
+Exalted Deathbringer,Khorne Mortal,1,80
+Exalted Deathbringer with Impaling Spear,Khorne Mortal,1,80
+Goreblade Warband,Battalion,Formation,60
+Lord of Khorne on Juggernaut,Khorne Mortal,1,140
+Mighty Lord of Khorne,Khorne Mortal,1,140
+Red Headsmen,Battalion,Formation,60
+Skullgrinder,Khorne Mortal,1,80
+Skulltake,Battalion,Formation,100
+Slaughterpriest,Khorne Mortal,1,100
+Slaughterpriest with Hackblade and Wrathhammer,Khorne Mortal,1,100
+The Gorechosen,Battalion,Formation,100
+Mighty Skullcrushers,Khorne Mortal - Khorne Mortal Battleline,3,160
+Drazhoath the Ashen,Unique Behemoth,1,380
+Shar'tor the Executioner,Unique ,1,240
+Infernal Guard Castellan,,1,120
+Infernal Guard Battle Standard,,1,80
+Daemonsmith,,1,100
+Bull Centaur Taur'uk,,1,180
+Infernal Guard Ironsworn,Battleline (Legion of Azgorh),10,100
+Infernal Guard Fireglaives,Battleline (Legion of Azgorh),10,100
+Bull Centaur Renders,Battleline (Legion of Azgorh),3,160
+K'daai Fireborn,,3,100
+Iron Daemon,Behemoth,1,200
+Skullcracker,Behemoth,1,240
+Deathshrieker,Artillery,1,120
+Magma Cannon,Artillery,1,140
+Dreadquake Mortar,Artillery,1,200
+Chaos Siege Giant,Behemoth,1,220
+Blackshard Warhost,Batallion,,80
+Hashut's Wrath Artillery Train,Batallion,,100
+Bastiladon,Behemoth,1,300
+Bloodclaw Starhost,Battalion,Formation,100
+Chameleon Skinks,,5,120
+Engine of the Gods,Behemoth,1,240
+Eternal Starhost,Battalion,Formation,80
+Freelance Starhost,Battalion,Formation,60
+Heavenswatch Starhost,Battalion,Formation,100
+Jungle Swarms,,2,120
+Kroxigor,,3,180
+Oxyotl,Unique ,1,100
+Razordons,Artillery,1,60
+Ripperdactyl Riders,,3,140
+Salamanders,Artillery,1,60
+Saurus Astrolith Bearer,,1,160
+Saurus Eternity Warden,,1,140
+Saurus Guard,Seraphon Battleline,5,100
+Saurus Host,Batallion,Formation,140
+Saurus Knights,Seraphon Battleline,5,120
+Saurus Oldblood,,1,100
+Saurus Oldblood on Carnosaur,Behemoth,1,320
+Saurus Scar-Veteran on Carnosaur,Behemoth,1,260
+Saurus Scar-Veteran on Cold One,,1,100
+Saurus Sunblood,,1,120
+Saurus Warriors,Battleline,10,100
+Shadowstrike Starhost,Battalion,Formation,120
+Skink Chief,,1,60
+Skink Handlers,,3,40
+Skink Patrol,Batallion,Formation,140
+Skink Priest,,1,100
+Skink Starpriest,,1,100
+Skink Starseer,,1,160
+Skinks,Battleline,10,80
+Slann Starmaster,,1,260
+Starbeast Constellation,Battalion,Formation,120
+Stegadon,Behemoth,1,260
+Sunclaw Starhost,Battalion,Formation,80
+Tehenhauin Prophet of Sotek,Unique ,1,80
+Terradon Riders,,3,140
+Thunderquake Starhost,Battalion,Formation,120
+Troglodon,Behemoth,1,200
+Lord Kroak,Unique ,1,540
+Basilisk,Behemoth,1,320
+Bonegrinder Giant,Behemoth,1,360
+Carmine Dragon,Behemoth,1,480
+Colossal Squig,Behemoth,1,300
+Curs'd Ettin,Behemoth,1,200
+Dreadmaw,Behemoth,1,440
+Fimir Warriors,Battleline (Fimir Dirach Balefield as General),3,120
+Fimir Dirach Balefield,,1,140
+Incarnate Elemental of Wrath,Behemoth,1,300
+Incarnate Elemental of Beasts,Behemoth,1,300
+Magma Dragon,Behemoth,1,520
+Merwyrm,Behemoth,1,300
+Mourngul,Behemoth,1,400
+Squig Gobba,Artillery,1,60
+Preyton,Behemoth,1,160
+Rogue Idol,Behemoth,1,480
+Brood Horror,Behemoth,1,120
+Skaven Warlord on Brood Horror,Behemoth,1,200
+Skin Wolves,,3,120
+Wolf Rats,,5,100
+Troll Hag,Behemoth,1,400
+Warpfire Dragon,Behemoth,1,200
+Skaarac the Bloodborn,Unique Behemoth,1,500
+Dread Saurian,Behemoth,1,400
+Frostlord on Stonehorn,Beastclaw Raiders -  Behemoth,1,460
+Frostlord on Thundertusk,Beastclaw Raiders -  Behemoth,1,420
+Huskard on Stonehorn,Beastclaw Raiders -  Behemoth,1,380
+Huskard on Thundertusk,Beastclaw Raiders -  Behemoth,1,340
+Icebrow Hunter,Beastclaw Raiders,1,160
+Frost Sabres,Beastclaw Raiders - Beastclaw Raiders Battleline (Icetooth Hunter General),2,60
+icefall Yhetees,Beastclaw Raiders - Beastclaw Raiders Battleline (Frostlord on Thundertusk General),3,120
+Mournfang Pack,Beastclaw Raiders - Beastclaw Raiders Battleline,2,200
+Stonehorn Beastriders,Beastclaw Raiders - Behemoth - Beastclaw Raiders Battleline,1,360
+Thundertusk Beastriders,Beastclaw Raiders - Behemoth - Beastclaw Raiders Battleline,1,320
+Braggoth's Beast Hammer,Beastclaw Raiders - Battalion,Formation,160
+Olwyr Alfrostun,Beastclaw Raiders - Battalion,Formation,120
+Svard Alfrostun,Beastclaw Raiders - Battalion,Formation,80
+Eurlbad,Beastclaw Raiders - Battalion,Formation,60
+Torrbad,Beastclaw Raiders - Battalion,Formation,60
+Skal,Beastclaw Raiders - Battalion,Formation,60
+Alfrostun,Beastclaw Raiders - Battalion,Formation,40
+Jorlbad,Beastclaw Raiders - Battalion,Formation,20
+Tyrant,Gutbusters,1,160
+Butcher,Gutbusters,1,140
+Ogors,Gutbusters - Battleline,3,120
+Leadbelchers,Gutbusters - Gutbusters Battleline,3,160
+Gorgers,Gutbusters,1,60
+Grots,Gutbusters,20,100
+Ironguts,Gutbusters,3,220
+Grot Scraplauncher,Gutbusters - Artillery,1,140
+Ironblaster,Gutbusters - Artillery,1,160
+Firebelly,Firebellies,1,140
+Bragg the Gutsman,Ogre Kingdoms - Unique ,1,120
+Bruiser Standard Bearer,Ogre Kingdoms,1,140
+Golgfag Maneater,Ogre Kingdoms - Unique ,1,140
+Greasus Goldtooth,Ogre Kingdoms - Unique ,1,160
+Skrag the Slaughterer,Ogre Kingdoms - Unique ,1,120
+Beastclaw Avalanche,Ogre Kingdoms - Battalion,Formation,120
+Gutbuster Wartribe,Ogre Kingdoms - Battalion,Formation,60
+Maneaters,Maneaters,3,220
+Gordrakk The Fist of Gork,Ironjawz - Unique Behemoth,1,700
+Megaboss on MawKrusha,Ironjawz Behemoth,1,520
+Orruk Megaboss,Ironjawz,1,140
+Orruk Warchanter,Ironjawz,1,80
+Orruk Weirdnob Shaman,Ironjawz,1,120
+Orruk Brutes,Ironjawz - Ironjawz Battleline,5,180
+Orruk GoreGruntas,Ironjawz - Ironjawz Battleline,3,180
+Orruk Ardboys,Ironjawz - Ironjawz Battleline,10,180
+Gorefist,Ironjawz - Battalion,Formation,120
+Weirdfist,Ironjawz - Battalion,Formation,100
+Brawl,Ironjawz - Battalion,Formation,100
+Brutefist,Ironjawz - Battalion,Formation,80
+Ironfist,Ironjawz - Battalion,Formation,60
+Ardfist,Ironjawz - Battalion,Formation,40
+Maniak Weirdnob,Bonesplitterz,1,100
+Savage Big Boss,Bonesplitterz,1,100
+Wardokk,Bonesplitterz,1,80
+Wurrgog Prophet,Bonesplitterz,1,140
+Savage Orruks,Bonesplitterz - Battleline,10,100
+Savage Boarboy Maniaks,Bonesplitterz - Bonesplitterz Battleline,5,160
+Savage Boarboyz,Bonesplitterz - Bonesplitterz Battleline,5,120
+Savage Big Stabbas,Bonesplitterz,2,100
+Savage Orruk Arrowboys,Bonesplitterz,10,100
+Savage Orruk Morboys,Bonesplitterz,10,120
+Kop Rukk,Bonesplitterz - Battalion,Formation,100
+Icebone Warclan,Bonesplitterz - Battalion,Formation,100
+Savage Warclan,Bonesplitterz - Battalion,Formation,60
+Kunnin' Rukk,Bonesplitterz - Battalion,Formation,60
+Drakkfoot Warclan,Bonesplitterz - Battalion,Formation,60
+Snaga Rukk,Bonesplitterz - Battalion,Formation,40
+Brutal Rukk,Bonesplitterz - Battalion,Formation,40
+Teef Rukk,Bonesplitterz - Battalion,Formation,40
+Bonegrinz Warclan,Bonesplitterz - Battalion,Formation,40
+Aleguzzler Gargant,Aleguzzler Gargants - Behemoth,1,180
+Fellwater Troggoths,Troggoths,3,200
+Rockgut Troggoths,Troggoths,3,200
+Sourbreath Troggoths,Troggoths,3,200
+Orruk Great Shaman,Greenskinz,1,140
+Orruk Warboss,Greenskinz,1,140
+Orruk Warboss on Wyvern,Greenskinz Behemoth,1,240
+Orruks,Greenskinz - Battleline,10,100
+Orruk Boarboys,Greenskinz - Greenskinz Battleline,5,100
+Orruk Boar Chariots,Greenskinz,1,80
+Great Big Boss on Gigantic Spider,Spiderfang Grots,1,100
+Grot Spider Riders,Spiderfang Grots - Spiderfang Battleline,5,100
+Arachnarok Spider,Spiderfang Grots - Behemoth,1,280
+Grot Warboss,Moonclan Grots,1,80
+Grot Warboss on Great Cave Squig,Moonclan Grots,1,80
+Moonclan Grot Shaman,Moonclan Grots,1,60
+Moonclan Grots,Moonclan Grots - Battleline,20,120
+Cave Squigs,Moonclan Grots,5,60
+Grot Fanatics,Moonclan Grots,1,30
+Grot Squig Herders,Moonclan Grots,2,20
+Grot Squig Hoppers,Moonclan Grots,5,80
+Mangler Squigs,Moonclan Grots - Behemoth,1,240
+Black Orc Big Boss,Orcs & Goblins,1,100
+Goblin Warboss,Orcs & Goblins,1,60
+Gorbad Ironclaw,Orcs & Goblins - Unique ,1,160
+Grimgor Ironhide,Orcs & Goblins - Unique ,1,140
+Grom the Paunch,Orcs & Goblins - Unique ,1,120
+Orc Bully,Orcs & Goblins,1,40
+Savage Orc Warboss on War Boar,Orcs & Goblins,1,100
+Skarsnik Warlord of the Eight Peaks,Orcs & Goblins - Unique ,1,100
+Wurrzag Da Great Green prophet,Orcs & Goblins - Unique ,1,120
+Azhag the Slaughterer,Orcs & Goblins - Unique Behemoth,1,340
+Ruglud's Armoured Orcs,Orcs & Goblins - Unique,5,140
+Bonesplittas Big Mob,Orcs & Goblins - Battalion,Formation,80
+Great Gitmob,Orcs & Goblins - Battalion,Formation,100
+Great Moonclan,Orcs & Goblins - Battalion,Formation,80
+Greenskinz Big Mob,Orcs & Goblins - Battalion,Formation,100
+Ironjaws Big Mob,Orcs & Goblins - Battalion,Formation,40
+Spiderfang Venom Mob,Orcs & Goblins - Battalion,Formation,100
+Gitmob Grot Shaman,Gitmob Grots,1,80
+Gitmob Grots,Gitmob Grots - Battleline,20,100
+Grot Wolf Riders,Gitmob Grots - Gitmob Grots Battleline,5,100
+Grot Wolf Chariots,Gitmob Grots,1,40
+Nasty Skulkers,Gitmob Grots,3,40
+Snotling Pump Wagons,Gitmob Grots,1,60
+Snotlings,Gitmob Grots,2,40
+Doom Diver Catapult,Gitmob Grots - Artillery,1,120
+Grot Rock Lobber,Gitmob Grots - Artillery,1,100
+Grot Spear Chukka,Gitmob Grots - Artillery,1,120
+Grot Big Boss on Gigantic Spider,Spiderfang Grots,1,100
+Arch-warlock,Skryre,1,140
+Clan Skryre,Batallion,Formation,200
+Clanrats,Verminus - Battleline,10,60
+Congregation of Filth,Battalion,Formation,60
+Doomwheel,Skryre - Behemoth,1,140
+Foulrain Congregation,Battalion,Formation,100
+Grey Seer,Masterclan,1,120
+Hell Pit Abomination,Moulder - Behemoth,1,300
+Packmaster,Moulder,1,60
+Plague Censer Bearers,Pestilens  - Pestilens Battleline,5,60
+Plague Furnace,Pestilens  Behemoth,1,220
+Plague Monks,Pestilens  - Pestilens Battleline,10,70
+Plague Priest with Plague Censer,Pestilens ,1,80
+Plague Priest with Warpstone-tipped Staff,Pestilens ,1,80
+Plagueclaw,Pestilens  - Artillery,1,180
+Plaguesmog Congregation,Battalion,Formation,80
+Screaming Bell,Masterclan - Behemoth,1,260
+Skaven Assassin,Eshin,1,100
+Skaven Warlord,Verminus,1,100
+Skryre Acolytes,Skryre - Skryre Battleline,5,60
+Stormfiends,Skryre - Skryre Battleline,3,300
+Verminlord Corruptor,Pestilens  Behemoth,1,240
+Verminlord Deceiver,Eshin Behemoth,1,320
+Verminlord Warbringer,Verminus - Behemoth,1,300
+Verminlord Warpseer,Masterclan - Behemoth,1,260
+Virulent Procession,Battalion,Formation,80
+Warlock Engineer,Skryre,1,100
+Warp-Lightning Cannon,Skryre - Artillery,1,180
+Warplock Jezzails,Skryre - Artillery,3,140
+Gutter Runners,Eshin,5,60
+Night Runners,Eshin - Eshin Battleline,10,100
+Poisoned Wind Mortar Weapon Team,Skryre,1,60
+Lord Skrolk,Unique ,1,100
+Doomflayer Weapon Team,Skryre,1,60
+Giant Rats,Moulder,6,30
+Lord Skreech Verminkin,Masterclan - Unique Behemoth,1,340
+Rat Ogors,Moulder,2,120
+Rat Swarms,Moulder,2,80
+Ratling Gun Weapon Team,Skryre,1,80
+Stormvermin,Verminus,10,140
+Warp-grinder Weapon Team,Skryre,1,100
+Warpfire Thrower Weapon Team,Skryre,1,60
+Thanquol and Boneripper,Masterclan - Unique Behemoth,1,500
+Skaven Chieftain with Battle Standard,Verminus,1,140
+Deathrunner,Eshin,1,120
+Celestant Prime,Unique,1,360
+Devastation Brotherhood,Battalion,Formation,60
+Drakesworn Templar,Behemoth,1,500
+Drakesworn Temple,Battalion,Formation,100
+Exemplar Chamber,Battalion,Formation,140
+Extremis Chamber,Battalion,Formation,160
+Hammerstrike Force,Battalion,Formation,120
+Harbringer Chamber,Battalion,Formation,140
+Judicators,Battleline,5,160
+Knight-Azyros,,1,100
+Knight-Heraldor,,1,120
+Knight-Venator,,1,120
+Knight-Vexillor,,1,200
+Liberators,Battleline,5,100
+Lightning Echelon,Battalion,Formation,140
+Lord Celestant on Stardrake,Behemoth,1,600
+Lord-Castellant,,1,100
+Lord-Celestant,,1,100
+Lord-Celestant on Dracoth,,1,220
+Lord-Relictor,,1,80
+Lords of the Storm,Battalion,Formation,100
+The Skyborne Slayers,Battalion,Formation,140
+Thunderhead Brotherhood,Battalion,Formation,80
+Thunderwave Echelon,Battalion,Formation,140
+Vanguard Wing,Battalion,Formation,100
+Wardens of the Realmgate,Battalion,Formation,80
+Warrior Brotherhood,Battalion,Formation,140
+Warrior Chamber,Battalion,Formation,140
+Paladin Decimators,,5,200
+Paladin Protectors,,5,200
+Paladin Retributors,,5,220
+Concussors,,2,280
+Desolators,,2,240
+Fulminators,,2,240
+Gryph-Hound,,1,40
+Prosecutors with Celestial Hammers,,3,100
+Prosecutors with Stormcall Javelins,,3,80
+Tempestors,,2,240
+Knight Questor,,1,100
+Alarielle the Everqueen,Unique  Behemoth,1,620
+Branchwraith,,1,100
+Branchwych,,1,100
+Dreadwood Wargrove,Battalion,Formation,100
+Dryads,Battleline,10,120
+Drycha Hamadreth,Unique  Behemoth,1,280
+Forest Folk,Battalion,Formation,60
+Forest Spirit Wargrove,Battalion,Formation,60
+Free Spirits,Battalion,Formation,40
+Gnarlroot Wargrove,Battalion,Formation,80
+Harvestboon Wargrove,Battalion,Formation,100
+Heartwood Wargrove,Battalion,Formation,60
+Household,Battalion,Formation,20
+Ironbark Wargrove,Battalion,Formation,60
+Kurnoth Hunters,,3,180
+Lords of the Clan,Battalion,Formation,60
+Outcasts,Battalion,Formation,40
+Quakenbrow Wargrove,Battalion,Formation,80
+Spirit of Durthu, Behemoth,1,400
+Spite Revenants,,5,100
+Sylvaneth Wargrove,Battalion,Formation,100
+The Guardians of Alarielle,Battalion,Formation,120
+Tree Revenants,Sylvaneth Battleline,5,100
+Treelord,Behemoth,1,260
+Treelord Ancient, Behemoth,1,300
+Winterleaf Wargrove,Battalion,Formation,100
+Tamurkhan,Unique Behemoth,1,500
+Kayzk,Unique ,1,140
+Plague Ogres,,3,160
+Bile Trolls,,3,200
+Gigantic Chaos Spawn,Behemoth,1,180
+Daemon Plague Toads,Tamurkhan's Horde Battleline ,3,120
+Chaos War Mammoth,Behemoth,1,320
+Sayl the Faithless,Unique ,1,160
+Nightmaw,Can only be present with Sayl,1,80
+Sons of the Maggot Lord,Batallion,,120
+The Leaping Pox,Batallion,,80
+Daemon Pox Riders,,3,200
+Bone Giant,Behemoth,1,200
+Carrion,,3,80
+Casket of Souls,Behemoth,1,160
+Khemrian Warsphinx,Behemoth,1,280
+Liche Priest,,1,120
+Necropolis Knights,,3,160
+Necrosphinx,Behemoth,1,400
+Necrotect,,1,100
+Royal Legion of Chariots,Battalion,Formation,140
+Royal Warsphinx,Behemoth,1,340
+Screaming Skull Catapult,Artillery,1,120
+Sepulchral Stalkers,,3,140
+Skeleton Chariots,Battleline,3,140
+Skeleton Horse Archers,,5,140
+Skeleton Horsemen,Battleline,5,100
+Skeleton Warriors,Battleline,10,80
+Tomb Guard,,5,80
+Tomb Herald,,1,100
+Tomb King,,1,100
+Tomb King in Royal Chariot,,1,160
+Tomb Legion,Battalion,Formation,80
+Tomb Scorpions,,1,80
+Tomb Swarm,,2,80
+Ushabti,,3,120
+High Queen Khalida,Unique ,1,120
+Settra the Imperishable,Unique ,1,360
+Skeleton Archers,Tomb Kings Battleline,10,100
+Prince Apophas,Unique ,1,80
+Zombies,Deadwalkers - Battleline,10,60
+Corpse Cart,Deadwalkers,1,80
+Dire Wolves,Deadwalkers,5,60
+Arkhan the Black Mortarch of Sacrament,Deathlords - Unique Behemoth,1,340
+Mannfred Mortarch of night,Deathlords - Unique Behemoth,1,460
+Nagash Supreme Lord of the Undead,Deathlords - Unique Behemoth,1,900
+Neferata Mortarch of Blood,Deathlords - Unique Behemoth,1,440
+Morghast Archai,Deathlords - Deathlords Battleline,2,240
+Morghast Harbingers,Deathlords - Deathlords Battleline,2,240
+Mortis Engine,Deathmages - Behemoth,1,180
+Necromancer,Deathmages,1,120
+Skeleton Warriors,Deathrattle - Battleline,10,80
+Wight King with baleful Tomb Blade,Deathrattle,1,120
+Wight King with Black Axe,Deathrattle,1,120
+Black Knights,Deathrattle - Deathrattle Battleline,5,120
+Grave Guard,Deathrattle,5,80
+Legion of Death,Deathrattle - Battalion,Formation,60
+Crypt Ghouls,Battleline,10,100
+Terrorgheist,Behemoth,1,320
+Zombie Dragon,Behemoth,1,320
+Abhorrant Ghoul King,,1,100
+Crypt Ghast Courtier,,1,80
+Crypt Haunter Courtier,,1,120
+Crypt Infernal Courtier,,1,140
+Varghulf Courtier,,1,160
+Abhorrant Ghoul King on Terrorgheist,Behemoth,1,400
+Abhorrant Ghoul King on Zombie Dragon,Behemoth,1,400
+Crypt Flayers,Flesh Eater Courts Battleline if general is Crypt Infernal Courtier,3,160
+Crypt Horrors,Flesh Eater Courts Battleline if general is Crypt Haunter Courtier,3,140
+Abattoir,Battalion,Formation,60
+Attendants at Court,Battalion,Formation,100
+Deadwatch,Battalion,Formation,160
+Flesh-eater Court,Battalion,Formation,120
+Ghoul Patrol,Battalion,Formation,100
+King's Ghouls,Battalion,Formation,40
+Royal Family,Battalion,Formation,60
+Royal Menagerie,Battalion,Formation,60
+Royal Mordants,Battalion,Formation,20
+Cairn Wraith,Nighthaunt,1,60
+Tomb Banshee,Nighthaunt,1,80
+Black Coach,Nighthaunt,1,120
+Hexwraiths,Nighthaunt,5,160
+Spirit Hosts,Nighthaunt - Nighthaunt Battleline,3,120
+Vampire Lord,Soulblight,1,140
+Coven Throne,Soulblight - Behemoth,1,260
+Vampire Lord on Zombie Dragon,Soulblight - Behemoth,1,440
+Bat swarms,Soulblight,2,80
+Blood Knights,Soulblight - Soulblight Battleline,5,260
+Fell Bats,Soulblight,3,80
+Vargheists,Soulblight,3,160
+Charnel Pit Carrion,Battalion,Formation,80
+Count Mannfred,,1,160
+Deathrattle Horde,Battalion,Formation,80
+Isabella von Carstein,,1,80
+Konrad von Carstein,,1,100
+Necromancer on Nightmare,,1,140
+Heinrich Kemmler the Lichemaster,,1,160
+Vampire Lord on Abyssal Terror,,1,220
+Wight King on Skeletal Steed,,1,120
+Wight King with Infernal Standard,,1,120
+Vlad von Carstein,,1,120
+Glade Guard,Wanderers - Battleline,10,120
+Nomad Prince,Wanderers ,1,80
+Spellweaver,Wanderers ,1,100
+Wayfinder,Wanderers ,1,100
+Waystrider,Wanderers ,1,80
+WayWatcher,Wanderers ,1,100
+Eternal Guard,Wanderers,10,80
+Sisters of the Thorn,Wanderers,5,220
+Sisters of the Watch,Wanderers - Wanderers Battleline with Waywatcher General,10,240
+Wild Riders,Wanderers,5,140
+Wildwood Rangers,Wanderers - Wanderers Battleline with Wayfinder General,10,200
+Waystone Pathfinders,Wanderers - Battalion,Formation,140
+Gaunt Summoner of Tzeentch,Everchosen,1,120
+Archaon's Grand Host,Battalion,Formation,200
+Blightguard,Battalion,Formation,100
+Bloodmarked Warband,Battalion,Formation,80
+Chaos Chariots,,1,80
+Chaos Chosen,,5,160
+Chaos Gargant,Chaos Gargants - Behemoth,1,180
+Chaos Gorebeast Chariots,,1,100
+Chaos Knights,Slaves to Darkness Battleline,5,200
+Chaos Lord of Slaanesh,Host Of Slaanesh,1,100
+Chaos Lord on Daemonic Mount,,1,140
+Chaos Lord on Manticore,Behemoth,1,300
+Chaos Marauder Horsemen,Slaves to Darkness Battleline,5,100
+Chaos Marauders,Battleline,10,60
+Chaos Sorcerer Lord,,1,140
+Chaos Sorcerer Lord on Manticore,Behemoth,1,240
+Chaos Spawn,,1,60
+Chaos Warriors,Battleline,10,180
+Chaos Warshrine,Behemoth,1,200
+Chimera,Behemoth,1,240
+Cockatrice,Behemoth,1,120
+Demon Prince,Behemoth,1,160
+Dragon Ogor Shaggoth,,1,180
+Dragon Ogors,Dragon Ogor Battleline,3,160
+Exalted Hero of Chaos,,1,80
+Fatesworn Warband,Battalion,Formation,120
+Godsworn Champions of Ruin,Battalion,Formation,60
+Godswrath Warband,Battalion,Formation,40
+Lord of Chaos,,1,100
+Lord of Slaanesh on Daemonic Mount,,1,140
+Overlords of Chaos,Battalion,Formation,120
+Plaguetouched Warband,Battalion,Formation,140
+Pleasurebound Warband,Battalion,Formation,60
+Ruinbringer Warband,Battalion,Formation,80
+Archaon,Everchosen - Unique Behemoth,1,700
+Bloab Rotspawned,Unique Behemoth,1,260
+Hellflayers of Slaanesh,Host Of Slaanesh,1,80
+Hellstriders of Slaanesh,Host Of Slaanesh,5,100
+Khorgoraths,,1,80
+Morbidex Twiceborn,Unique Behemoth,1,260
+Orghotts Daemonspew,Unique Behemoth,1,260
+Putrid Blightkings,Mortal Nurgle Battleline,5,180
+Rotbringers Sorcerer,,1,100
+Scyla Anfingrimm,Unique ,1,100
+Skarr Bloodwrath,Unique ,1,120
+Skullreapers,,5,140
+Valkia the Bloody,Unique ,1,120
+Wrathmongers,,5,180
+Varanguard,Everchosen - Everchosen Battleline,3,360
+Exalted Hero with Battle Standard,,1,80
+Darkoath Chieftan,,1,80
+Ogroid Thamaturge,,1,160
+Galrauch,Unique Behemoth,1,340
+Great Taurus,Behemoth,1,140
+Lammasu,Behemoth,1,140
+Archaon the Everchosen,Unique ,1,320
+Chaos Sorcerer Lord on Chaos Steed,,1,120
+Crom the Conqueror,,1,80
+Sigvald the Magnificent,Unique,1,120
+Throgg,Unique,1,160
+Wulfrik the wanderer,Unique,1,80
+Chaos Familiars,,2,40
+Chaos Ogres,,3,120
+Chaos Trolls,,3,180
+Forsaken,,10,200
+Chaos Warband,Battalion,Formation,80
+Marauder Raiders,Battalion,Formation,100
+Tzeentch Chaos Lord on Disc of Tzeentch,,1,140
+Tzeentch Sorcerer Lord,,1,120
+Curseling Lord of Tzeentch,,1,140
+Harbinger of Decay,,1,140
+Glade Riders,Wood Elves - Battleline,8,200
+Waywatchers,Wood Elves - Battleline,3,80
+Araloth,Wood Elves - Unique,1,80
+Glade Captain Battle Standard Bearer,Wood Elves,1,80
+Glade Lord,Wood Elves,1,100
+Glade Lord on Great Eagle,Wood Elves,1,120
+Glade Lord on Great Stag,Wood Elves,1,100
+Mounted Glade Lord,Wood Elves,1,100
+Shadowdancer,Wood Elves,1,100
+Spellweaver on Purebred Steed,Wood Elves,1,120
+Glade Lord on Forest Dragon,Wood Elves - Behemoth,1,340
+Orion King in the woods,Wood Elves - Unique Behemoth,1,380
+The Sisters of Twilight on forest dragon,Wood Elves - Unique Behemoth,1,420
+Great Eagles,Wood Elves,1,60
+Hunting Hounds,Wood Elves,1,20
+Tree Kin,Wood Elves,3,100
+Wardancers,Wood Elves,5,60
+Warhawk Riders,Wood Elves,1,40
+Guardians of the Deepwood,Wood Elves - Battalion,Formation,100
+Wanderer Host,Wood Elves - Battalion,Formation,60
+Arachnarok Spider with Grot Shaman,Spiderfang Grots - Behemoth,1,280
+Deathmaster Snikch,Unique,1,120
+Packmaster Skweel Gnawtooth,Unique,1,100
+Queek Headtaker,Unique,1,100
+Throt the unclean,Unique,1,100
+Tretch Craventail,Unique,1,100
+Warlord Spinetail,Unique,1,80
+Skavenslaves,,20,140
+Eshin Clawpack,,Formation,80
+Moulder Clawpack,,Formation,40
+Pestilent Clawpack,,Formation,80
+Verminus Clawpack,,Formation,80
+Celestial Hurricanum with Celestial Battlemage,Behemoth,1,320
+Luminark of Hysh with White Battlemage,Behemoth,1,240

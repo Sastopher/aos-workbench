@@ -1,0 +1,312 @@
+{
+  "heroes": [
+    {
+      "name": "Malekith, The Witch King",
+      "wounds": "14",
+      "desc": "Wizard | Monster",
+      "points": "6"
+    },
+    {
+      "name": "Malus Darkblade",
+      "wounds": "6",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Dreadlord",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Mistweaver Saih",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Tenebrael Shard",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Dreadlord On Black Dragon",
+      "wounds": "14",
+      "desc": "Monster",
+      "points": "4"
+    },
+    {
+      "name": "Dreadlord On Cold One",
+      "wounds": "6",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Sorceress",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points": "1"
+    },
+    {
+      "name": "Sorceress On Black Dragon",
+      "wounds": "14",
+      "desc": "Wizard | Monster",
+      "points": "4"
+    },
+    {
+      "name": "Sorceress On Cold One",
+      "wounds": "6",
+      "desc": "Wizard",
+      "points": "1"
+    },
+    {
+      "name": "Beastmaster On Manticore",
+      "wounds": "10",
+      "desc": "Monster",
+      "points": "2"
+    },
+    {
+      "name": "Black Ark Fleetmaster",
+      "wounds": "5",
+      "desc": "",
+      "points": ".5"
+    },
+    {
+      "name": "Lokhir Fellheart",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Master With Battle Standard",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Morathi",
+      "wounds": "6",
+      "desc": "Wizard",
+      "points": "2.5"
+    },
+    {
+      "name": "Hellebron",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Shadowblade",
+      "wounds": "5",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Death Hag",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Assassin",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Cauldron Of Blood",
+      "wounds": "13",
+      "models": "1",
+      "desc": "",
+      "points": "2.5"
+    }
+  ],
+  "units": [
+    {
+      "name": "Drakespawn Knights",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Drakespawn Chariots",
+      "wounds": "6",
+      "models": "1",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Black Ark Corsairs",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Dreadspears",
+      "wounds": "20",
+      "models": "20",
+      "desc": "",
+      "points": "1.25"
+    },
+    {
+      "name": "Bleakswords",
+      "wounds": "20",
+      "models": "20",
+      "desc": "",
+      "points": "1.25"
+    },
+    {
+      "name": "Darkshards",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Dark Riders",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Black Guard",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Shades",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Aelf Harpies",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points": ".5"
+    },
+    {
+      "name": "Scourgerunner Chariots",
+      "wounds": "6",
+      "models": "1",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Doomfire Warlocks",
+      "wounds": "10",
+      "models": "5",
+      "desc": "Wizard",
+      "points": "2"
+    },
+    {
+      "name": "Sisters Of Slaughter",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Bloodwrack Medusae",
+      "wounds": "5",
+      "models": "1",
+      "desc": "",
+      "points": ".5"
+    },
+    {
+      "name": "Bloodwrack Shrine",
+      "wounds": "13",
+      "models": "1",
+      "desc": "",
+      "points": "2.5"
+    },
+    {
+      "name": "Witch Aelves",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points": ".5"
+    },
+    {
+      "name": "Executioners",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points": "1"
+    }
+  ],
+  "monsters": [
+    {
+      "name": "War Hydra",
+      "wounds": "12",
+      "desc": "",
+      "points": "2.5"
+    },
+    {
+      "name": "Kharibdyss",
+      "wounds": "12",
+      "desc": "",
+      "points": "2"
+    }
+  ],
+  "warmachines": [
+    {
+      "name": "Reaper Bolt Thrower",
+      "wounds": "6",
+      "desc": "",
+      "points": "1.5"
+    }
+  ],
+  "formations": [
+    {
+      "name": "Exiled Warhost",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": ".5"
+    },
+    {
+      "name": "Exiled Blood Cult",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Ebondrake Warhost",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Realm Reavers",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Thrall Warhost",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Bloodwrack Sisterhood",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    }
+  ]
+}

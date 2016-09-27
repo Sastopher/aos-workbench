@@ -1,0 +1,194 @@
+{
+  "heroes": [
+    {
+      "name": "Settra The Imperishable",
+      "wounds": "8",
+      "desc": "",
+      "points": "4"
+    },
+    {
+      "name": "High Queen Khalida",
+      "wounds": "5",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Tomb King",
+      "wounds": "6",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Tomb King in Royal Chariot",
+      "wounds": "8",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Prince Apophas",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Tomb Herald",
+      "wounds": "",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Liche Priest",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Casket Of Souls",
+      "wounds": "8",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Necrotect",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Royal Warsphinx",
+      "wounds": "12",
+      "desc": "",
+      "points": "3.5"
+    }
+  ],
+  "units": [
+    {
+      "name": "Skeleton Warriors",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": ".75"
+    },
+    {
+      "name": "Skeleton Archers",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Skeleton Horsemen",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Skeleton Horse Archers",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Skeleton Chariots",
+      "wounds": "15",
+      "models": "3",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Tomb Guard",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Tomb Scorpions",
+      "wounds": "5",
+      "models": "1",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Necropolis Knights",
+      "wounds": "15",
+      "models": "3",
+      "desc": "",
+      "points": "2.5"
+    },
+    {
+      "name": "Ushabti",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Sepulchral Stalkers",
+      "wounds": "15",
+      "models": "3",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Carrion",
+      "wounds": "9",
+      "models": "3",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Tomb Swarm",
+      "wounds": "3",
+      "models": "1",
+      "desc": "",
+      "points": ".5"
+    }
+  ],
+  "warmachines": [
+    {
+      "name": "Screaming Skull Catapult",
+      "wounds": "8",
+      "desc": "",
+      "points": "1.5"
+    }
+  ],
+  "monsters": [
+    {
+      "name": "Bone Giant",
+      "wounds": "9",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Khemrian Warsphinx",
+      "wounds": "14",
+      "desc": "",
+      "points": "3"
+    },
+    {
+      "name": "Necrosphinx",
+      "wounds": "12",
+      "desc": "",
+      "points": "4"
+    }
+  ],
+  "formations": [
+    {
+      "name": "Royal Legion of Chariots",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    },
+    {
+      "name": "Tomb Legion",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "heroes": [
+    {
+      "name": "King Louen Leoncoeur",
+      "wounds": "10",
+      "desc": "",
+      "points" : "3.5"
+    },
+    {
+      "name": "The Fay Enchantress",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "2"
+    },
+    {
+      "name": "The Green Knight",
+      "wounds": "5",
+      "desc": "",
+      "points" : "2.5"
+    },
+    {
+      "name": "Bretonnian Lord",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Paladin",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Paladin Standard Bearer",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Damsel Of The Lady",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "1"
+    }
+  ],
+  "units": [
+    {
+      "name": "Knights Errant",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Knights Of The Realm",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Questing Knights",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Grail Knights",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Pegasus Knights",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Battle Pilgrims",
+      "wounds": "6",
+      "models": "6",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Grail Reliquae",
+      "wounds": "3",
+      "models": "1",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Men At Arms",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Peasant Bowmen",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Mounted Yeomen",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    }
+  ],
+  "warmachines": [
+    {
+      "name": "Field Trebuchet",
+      "wounds": "10",
+      "desc": "",
+      "points" : "2.5"
+    }
+  ],
+  "monsters": [
+  ],
+  "formations": [
+    {
+      "name": "Peasant Militia",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points" : ".5"
+    },
+    {
+      "name": "Defenders of the Realm",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points" : ".5"
+    }
+  ]
+}

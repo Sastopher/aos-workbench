@@ -1,0 +1,142 @@
+{
+  "heroes": [
+    {
+      "name": "Savage Big Boss",
+      "wounds": "6",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Maniak Weirdnob",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "1"
+    },
+    {
+      "name": "Wardokk",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "1.5"
+    },
+    {
+      "name": "Wurrgog Prophet",
+      "wounds": "6",
+      "desc": "Wizard",
+      "points" : "1.5"
+    }
+  ],
+  "units": [
+    {
+      "name": "Savage Orruks",
+      "wounds": "20",
+      "models": "10",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Savage Orruk Arrowboys",
+      "wounds": "20",
+      "models": "10",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Savage Orruk Morboys",
+      "wounds": "20",
+      "models": "10",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Savage Big Stabbas",
+      "wounds": "8",
+      "models": "2",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Savage Boarboyz",
+      "wounds": "15",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Savage Boarboy Maniaks",
+      "wounds": "15",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    }
+  ],
+  "warmachines": [
+  ],
+  "monsters": [
+ 
+  ],
+  "formations": [
+    {
+      "name": "Kop Rukk",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Icebone Warclan",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Savage Warclan",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Kunnin' Rukk",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Drakkfoot Warclan",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Snaga Rukk",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Brutal Rukk",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Teef Rukk",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Bonegrinz Warclan",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    }
+  ]
+}

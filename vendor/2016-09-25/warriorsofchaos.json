@@ -1,0 +1,515 @@
+{
+  "heroes": [
+    {
+      "name": "Archaon",
+      "wounds": "20",
+      "desc": "Monster | Wizard",
+      "points" : "6.5"
+    },
+    {
+      "name": "Archaon The Everchosen",
+      "wounds": "20",
+      "desc": "Monster | Wizard",
+      "points" : "6.5"
+    },
+    {
+      "name": "Darkoath Chieftain",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "1.5"
+    },
+    {
+      "name": "Ogroid Thamaturge",
+      "wounds": "8",
+      "desc": "Wizard",
+      "points" : "1.5"
+    },
+    {
+      "name": "Daemon Prince",
+      "wounds": "8",
+      "desc": "Wizard",
+      "points" : "1.5"
+    },
+    {
+      "name": "Crom The Conquerer",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Chaos Lord",
+      "wounds": "6",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Lord Of Chaos",
+      "wounds": "6",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Chaos Lord On Daemonic Mount",
+      "wounds": "7",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Tzeentch Chaos Lord On Daemonic Mount",
+      "wounds": "7",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Chaos Lord On Manticore",
+      "wounds": "12",
+      "desc": "",
+      "points" : "2.5"
+    },
+    {
+      "name": "Chaos Sorcerer Lord",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "1"
+    },
+    {
+      "name": "Chaos Sorcerer Lord On Manticore",
+      "wounds": "12",
+      "desc": "Wizard",
+      "points" : "3"
+    },
+    {
+      "name": "Wulfrik The Wanderer",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Exalted Hero Of Chaos",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Exalted Hero With Battle Standard",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "The Glottkin",
+      "wounds": "18",
+      "desc": "Wizard | Monster",
+      "points" : "4.5"
+    },
+    {
+      "name": "Bloab Rotspawned",
+      "wounds": "12",
+      "desc": "Wizard | Monster",
+      "points" : "3"
+    },
+    {
+      "name": "Morbidex Twiceborn",
+      "wounds": "12",
+      "desc": "Wizard | Monster",
+      "points" : "3.5"
+    },
+    {
+      "name": "Orghotts Daemonspew",
+      "wounds": "12",
+      "desc": "Wizard | Monster",
+      "points" : "3"
+    },
+    {
+      "name": "Gutrot Spume",
+      "wounds": "7",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Festus The Leechlord",
+      "wounds": "6",
+      "desc": "Wizard",
+      "points" : "1.5"
+    },
+    {
+      "name": "Harbinger of Decay",
+      "wounds": "7",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Rotbringers Sorcerer",
+      "wounds": "6",
+      "desc": "Wizard",
+      "points" : "1"
+    },
+    {
+      "name": "Sigvald The Magnificent",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Chaos Lord Of Slaanesh",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Lord Of Slaanesh On Daemonic Mount",
+      "wounds": "7",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Galrauch",
+      "wounds": "10",
+      "desc": "Wizard | Monster",
+      "points" : "3.5"
+    },
+    {
+      "name": "Curseling Lord of Tzeentch",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "1"
+    },
+    {
+      "name": "Tzeentch Chaos Lord On Disc Of Tzeentch",
+      "wounds": "6",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Tzeentch Sorcerer Lord",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "1"
+    },
+    {
+      "name": "Throgg",
+      "wounds": "8",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Dragon Ogor Shaggoth",
+      "wounds": "10",
+      "desc": "Monster",
+      "points" : "2"
+    },
+    {
+      "name": "Gaunt Summoner of Tzeentch",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "1"
+    },
+    {
+      "name": "Lord of Plagues",
+      "wounds": "7",
+      "desc": "",
+      "points" : "1"
+    }
+  ],
+  "units": [
+    {
+      "name": "Chaos Warriors",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Chaos Marauders",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points" : ".75"
+    },
+    {
+      "name": "Forsaken",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Chaos Chariots",
+      "wounds": "7",
+      "models": "1",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Chaos Marauder Horsemen",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Chaos Chosen",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Chaos Knights",
+      "wounds": "15",
+      "models": "5",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Chaos Gorebeast Chariots",
+      "wounds": "8",
+      "models": "1",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Chaos Warshrine",
+      "wounds": "12",
+      "models": "1",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Chaos Spawn",
+      "wounds": "5",
+      "models": "1",
+      "desc": "",
+      "points" : ".5"
+    },
+    {
+      "name": "Putrid Blightkings",
+      "wounds": "15",
+      "models": "5",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Hellstriders Of Slaanesh",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Chaos Warhounds",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points" : ".5"
+    },
+    {
+      "name": "Chaos Ogres",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Chaos Trolls",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Dragon Ogors",
+      "wounds": "15",
+      "models": "3",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Chaos Familiars",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points" : ".5"
+    },
+    {
+      "name": "Marauder Raiders",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": ".5"
+    },
+    {
+      "name": "Chaos Warband",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Varanguard",
+      "wounds": "5",
+      "models": "1",
+      "desc": "",
+      "points" : "1"
+    }
+  ],
+  "warmachines": [
+    {
+      "name": "Hellcannon",
+      "wounds": "10",
+      "desc": "",
+      "points" : "3"
+    }
+  ],
+  "monsters": [
+    {
+      "name": "Giant",
+      "wounds": "12",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Chimera",
+      "wounds": "12",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Mutalith Vortex Beast",
+      "wounds": "12",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Slaughterbrute",
+      "wounds": "12",
+      "desc": "",
+      "points" : "2.5"
+    },
+    {
+      "name": "Cockatrice",
+      "wounds": "8",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Great Taurus",
+      "wounds": "8",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Lammasu",
+      "wounds": "8",
+      "desc": "",
+      "points" : "2"
+    }
+  ],
+  "formations": [
+    {
+      "name": "Blighted Warband",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Overlords of Chaos",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Bloodmarked Warband",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Plaguetouched Warband",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Fatesworn Warband",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Pleasurebound Warband",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Archaon's Grand Host",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "2"
+    },
+    {
+      "name": "Blight Guard",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1.5"
+    },
+    {
+      "name": "Godsworn Champions of Ruin",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    },
+    {
+      "name": "Godswrath Warband",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    },
+    {
+      "name": "Ruinbringer Warband",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    },
+    {
+      "name": "Lascilion's Wanton Horde",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    },
+    {
+      "name": "Torglug's Foulblessed",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    },
+    {
+      "name": "Chaos Warband",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    },
+    {
+      "name": "Marauder Raiders",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    }
+  ]
+}

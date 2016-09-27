@@ -1,0 +1,191 @@
+{
+  "heroes": [
+    {
+      "name": "Gorthor The Beastlord",
+      "wounds": "8",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Khazrak The One-Eye",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Beastlord",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Wargor Standard Bearer",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Malagor, The Dark Omen",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "1.5"
+    },
+    {
+      "name": "Great Bray Shaman",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "1"
+    },
+    {
+      "name": "Morghur, Master of Skulls",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "1.5"
+    },
+    {
+      "name": "Doombull",
+      "wounds": "8",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Ghorros Warhoof",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1.5"
+    }
+  ],
+  "units": [
+    {
+      "name": "Gors",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points" : ".75"
+    },
+    {
+      "name": "Bestigors",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Tuskgor Chariots",
+      "wounds": "6",
+      "models": "1",
+      "desc": "",
+      "points" : ".75"
+    },
+    {
+      "name": "Ungors",
+      "wounds": "20",
+      "models": "20",
+      "desc": "",
+      "points" : "1.25"
+    },
+    {
+      "name": "Ungor Raiders",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Bullgors",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Centigors",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Razorgors",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Chaos Warhounds",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points" : ".5"
+    },
+    {
+      "name": "Harpies",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Chaos Spawn",
+      "wounds": "5",
+      "models": "1",
+      "desc": "",
+      "points" : ".5"
+    }
+  ],
+  "monsters": [
+    {
+      "name": "Cygor",
+      "wounds": "12",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Chaos Gargant",
+      "wounds": "12",
+      "points" : "1.5"
+    },
+    {
+      "name": "Jabberslythe",
+      "wounds": "10",
+      "points" : "2"
+    },
+    {
+      "name": "Ghorgon",
+      "wounds": "12",
+      "desc": "",
+      "points" : "2.5"
+    }
+  ],
+  "formations": [
+    {
+      "name": "Ungor Raiders Ambush",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points" : ".5"
+    },
+    {
+      "name": "Furious Brayherd",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points" : ".5"
+    },
+    {
+      "name": "Bullgor Stampede",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points" : "1"
+    },
+    {
+      "name": "Wildstalker Brayherd",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points" : "0.5"
+    }
+  ]
+}

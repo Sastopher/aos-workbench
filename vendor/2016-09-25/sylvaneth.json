@@ -1,0 +1,188 @@
+{
+  "heroes": [
+    {
+      "name": "Branchwraith",
+      "wounds": "5",
+      "desc": "Sylvaneth | Wizard",
+      "points": "1"
+    },
+    {
+      "name": "Branchwych",
+      "wounds": "5",
+      "desc": "Sylvaneth | Wizard",
+      "points": "1"
+    },
+    {
+      "name": "Spirit of Durthu",
+      "wounds": "12",
+      "models": "1",
+      "desc": "Sylvaneth | Monster",
+      "points": "3.5"
+    },
+    {
+      "name": "Drycha Hamadreth",
+      "wounds": "10",
+      "models": "1",
+      "desc": "Sylvaneth | Monster",
+      "points": "3.5"
+    },
+    {
+      "name": "Alarielle the Everqueen",
+      "wounds": "16",
+      "models": "1",
+      "desc": "Sylvaneth | Monster",
+      "points": "3.5"
+    },
+    {
+      "name": "Treelord Ancient",
+      "wounds": "12",
+      "desc": "Sylvaneth",
+      "points": "3"
+    }
+  ],
+  "units": [
+    {
+      "name": "Dryads",
+      "wounds": "5",
+      "models": "5",
+      "desc": "Sylvaneth",
+      "points": ".5"
+    },
+    {
+      "name": "Kurnoth Hunters",
+      "wounds": "15",
+      "models": "3",
+      "desc": "Terrain",
+      "points": "1"
+    },
+    {
+      "name": "Spite-Revenants",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Tree-Revenants",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points": "1"
+    }
+  ],
+  "monsters": [
+    {
+      "name": "Treelord",
+      "wounds": "12",
+      "desc": "Sylvaneth",
+      "points": "2.5"
+    }
+  ],
+  "formations": [
+    {
+      "name": "Alarielle's Heartwood Guard",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Sylvaneth Wargrove",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Winterleaf Wargrove",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Ironbark Wargrove",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Dreadwood Wargrove",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Heartwood Wargrove",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Gnarlroot Wargrove",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Oakenbrow Wargrove",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Harvestboon Wargrove",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Forest Spirit Wargrove",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Outcasts",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Free Spirits",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Forest Folk",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Household",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Lords of the Clan",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    }
+  ]
+}

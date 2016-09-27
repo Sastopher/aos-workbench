@@ -1,0 +1,134 @@
+{
+  "heroes": [
+    {
+      "name": "Greasus Goldtooth",
+      "wounds": "9",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Skrag The Slaughterer",
+      "wounds": "8",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Tyrant",
+      "wounds": "8",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Bragg The Gutsman",
+      "wounds": "7",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Bruiser Standard Bearer",
+      "wounds": "7",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Butcher",
+      "wounds": "7",
+      "desc": "Wizard",
+      "points" : "1"
+    },
+    {
+      "name": "Firebelly",
+      "wounds": "7",
+      "desc": "Wizard",
+      "points" : "1"
+    },
+    {
+      "name": "Golgfag Maneater",
+      "wounds": "7",
+      "desc": "",
+      "points" : "1"
+    }
+  ],
+  "units": [
+    {
+      "name": "Ogors",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Ironguts",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Leadbelchers",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Gorgers",
+      "wounds": "5",
+      "models": "1",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Ironblaster",
+      "wounds": "9",
+      "models": "1",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Grot Scraplauncher",
+      "wounds": "9",
+      "models": "1",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Grots",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Maneaters",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "1"
+    }
+  ],
+  "monsters": [
+    {
+      "name": "Aleguzzler Gargant",
+      "wounds": "12",
+      "desc": "",
+      "points" : "3"
+    }
+  ],
+  "formations": [
+    {
+      "name": "Gutbuster Wartribe",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Beastclaw Avalanche",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    }
+  ]
+}

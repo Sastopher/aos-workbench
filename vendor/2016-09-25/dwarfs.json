@@ -1,0 +1,344 @@
+{
+  "heroes": [
+    {
+      "name": "High King Thorgrim Grudgebearer",
+      "wounds": "8",
+      "desc": "",
+      "points": "2.5"
+    },
+    {
+      "name": "Thorek Ironbrow",
+      "wounds": "8",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Kraggi",
+      "wounds": "3",
+      "desc": "",
+      "points": ".5"
+    },
+    {
+      "name": "Belegar Ironhammer",
+      "wounds": "5",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Ungrim Ironfist The Slayer King",
+      "wounds": "6",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Josef Bugman",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Grimm Burloksson",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Dwarf Lord",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Dwarf Lord with Shieldbearers",
+      "wounds": "7",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Thane with Battle Standard",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Runelord",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Dragon Slayer",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Cogsmith",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Dwarf Engineer",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Auric Runemaster",
+      "wounds": "6",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Battlesmith",
+      "wounds": "6",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Grimwrath Berzerker",
+      "wounds": "6",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Auric Runesmiter",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Auric Runesmiter on Magmadroth",
+      "wounds": "12",
+      "desc": "Monster",
+      "points": "2.5"
+    },
+    {
+      "name": "Auric Runeson",
+      "wounds": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Auric Runeson on Magmadroth",
+      "wounds": "12",
+      "desc": "Monster",
+      "points": "2.5"
+    },
+    {
+      "name": "Auric Runefather",
+      "wounds": "6",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Auric Runefather on Magmadroth",
+      "wounds": "12",
+      "desc": "Monster",
+      "points": "3"
+    },
+    {
+      "name": "Unforged",
+      "wounds": "5",
+      "desc": "",
+      "points": ".5"
+    },
+    {
+      "name": "Warden King",
+      "wounds": "5",
+      "desc": "",
+      "points": ".5"
+    },
+    {
+      "name": "Doomseeker",
+      "wounds": "5",
+      "desc": "",
+      "points": ".5"
+    }
+  ],
+  "units": [
+    {
+      "name": "Hammerers",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Ironbreakers",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Irondrakes",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Longbeards",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Dwarf Warriors",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Miners",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Quarrellers",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Slayers",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points": ".5"
+    },
+    {
+      "name": "Thunderers",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Auric Hearthguard",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Hearthguard Berzerkers",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points": "1"
+    },
+    {
+      "name": "Vulkite Berzerkers",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points": "1"
+    }
+  ],
+  "monsters": [
+    
+  ],
+  "warmachines": [
+    {
+      "name": "Gyrocopters",
+      "wounds": "4",
+      "desc": "",
+      "points": ".5"
+    },
+    {
+      "name": "Gyrobombers",
+      "wounds": "5",
+      "desc": "",
+      "points": ".5"
+    },
+    {
+      "name": "Dwarf Bolt Thrower",
+      "wounds": "7",
+      "desc": "",
+      "points": "1.5"
+    },
+    {
+      "name": "Cannon",
+      "wounds": "7",
+      "desc": "",
+      "points": "2"
+    },
+    {
+      "name": "Flame Cannon",
+      "wounds": "7",
+      "desc": "",
+      "points": "3"
+    },
+    {
+      "name": "Organ Gun",
+      "wounds": "7",
+      "desc": "",
+      "points": "2"
+    },
+    {
+      "name": "Grudge Thrower",
+      "wounds": "7",
+      "desc": "",
+      "points": "2.5"
+    }
+  ],
+  "formations": [
+    {
+      "name": "Lords of the Lodge",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Warrior Kinband",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    },
+    {
+      "name": "Forge Brethren",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "1"
+    },
+    {
+      "name": "Grand Fyrd",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0.5"
+    },
+    {
+      "name": "Dispossessed Clan Throng",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": ".5"
+    },
+    {
+      "name": "Dispossessed Artillery Battery",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    },
+    {
+      "name": "Grudgebound War Throng",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points": "0"
+    }     
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "heroes": [
+    {
+      "name": "Bloodthirster Of Insensate Rage",
+      "wounds": "14",
+      "desc": "Monster",
+      "points" : "2.5"
+    },
+    {
+      "name": "Bloodthirster Of Unfettered Fury",
+      "wounds": "14",
+      "desc": "Monster",
+      "points" : "2.5"
+    },
+    {
+      "name": "Wrath Of Khorne Bloodthirster",
+      "wounds": "14",
+      "desc": "Monster",
+      "points" : "3"
+    },
+    {
+      "name": "Skarbrand",
+      "wounds": "14",
+      "desc": "Monster",
+      "points" : "3.5"
+    },
+    {
+      "name": "Skulltaker",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Bloodmaster, Herald of Khorne",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Skullmaster, Herald of Khorne",
+      "wounds": "6",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Blood Throne Of Khorne",
+      "wounds": "7",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Karanak",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Great Unclean One",
+      "wounds": "10",
+      "desc": "Wizard | Monster",
+      "points" : "2"
+    },
+    {
+      "name": "Epidemius",
+      "wounds": "7",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Herald Of Nurgle",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Kairos Fateweaver",
+      "wounds": "10",
+      "desc": "Wizard | Wizard",
+      "points" : "3"
+    },
+    {
+      "name": "Lord Of Change",
+      "wounds": "10",
+      "desc": "Wizard | Monster",
+      "points" : "3"
+    },
+    {
+      "name": "The Changeling",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "2"
+    },
+    {
+      "name": "Herald Of Tzeentch",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "1"
+    },
+    {
+      "name": "Herald Of Tzeentch On Disc",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "1"
+    },
+    {
+      "name": "Herald Of Tzeentch On Burning Chariot",
+      "wounds": "8",
+      "desc": "Wizard",
+      "points" : "1.5"
+    },
+    {
+      "name": "The Blue Scribes",
+      "wounds": "5",
+      "desc": "Wizard",
+      "points" : "1.5"
+    },
+    {
+      "name": "Keeper Of Secrets",
+      "wounds": "10",
+      "desc": "Wizard | Monster",
+      "points" : "2"
+    },
+    {
+      "name": "The Masque Of Slaanesh",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Herald Of Slaanesh",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Herald Of Slaanesh On Seeker Chariot",
+      "wounds": "5",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Herald Of Slaanesh On Exalted Seeker Chariot",
+      "wounds": "9",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Daemon Prince",
+      "wounds": "8",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Daemon Prince Of Khorne",
+      "wounds": "8",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Daemon Prince Of Nurgle",
+      "wounds": "8",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Daemon Prince Of Tzeentch",
+      "wounds": "8",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Daemon Prince Of Slaanesh",
+      "wounds": "8",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Be'Lakor, Chaos Daemon Prince",
+      "wounds": "8",
+      "desc": "Wizard",
+      "points" : "3"
+    }
+  ],
+  "units": [
+    {
+      "name": "Bloodletters",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Bloodcrushers",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Flesh Hounds",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Skull Cannons",
+      "wounds": "7",
+      "models": "1",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Plaguebearers Of Nurgle",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Plague Drones Of Nurgle",
+      "wounds": "15",
+      "models": "3",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Nurglings",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Beasts Of Nurgle",
+      "wounds": "18",
+      "models": "3",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Pink Horrors Of Tzeentch",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Exalted Flamers of Tzeentch",
+      "wounds": "4",
+      "models": "1",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Flamers Of Tzeentch",
+      "wounds": "6",
+      "models": "3",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Screamers Of Tzeentch",
+      "wounds": "9",
+      "models": "3",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Burning Chariots Of Tzeentch",
+      "wounds": "6",
+      "models": "1",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Daemonettes Of Slaanesh",
+      "wounds": "10",
+      "models": "10",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Seekers Of Slaanesh",
+      "wounds": "10",
+      "models": "5",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Fiends Of Slaanesh",
+      "wounds": "12",
+      "models": "3",
+      "desc": "",
+      "points" : "1.5"
+    },
+    {
+      "name": "Seeker Chariots Of Slaanesh",
+      "wounds": "6",
+      "models": "1",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Exalted Seeker Chariots Of Slaanesh",
+      "wounds": "9",
+      "models": "1",
+      "desc": "",
+      "points" : "2"
+    },
+    {
+      "name": "Hellflayers Of Slaanesh",
+      "wounds": "6",
+      "models": "1",
+      "desc": "",
+      "points" : "1"
+    },
+    {
+      "name": "Furies",
+      "wounds": "5",
+      "models": "5",
+      "desc": "",
+      "points" : ".5"
+    }
+  ],
+  "warmachines": [
+
+  ],
+  "monsters": [
+    {
+      "name": "Soul Grinder",
+      "wounds": "16",
+      "desc": "",
+      "points" : "2"
+    }
+  ],
+  "formations": [
+    {
+      "name": "Daemon Cohort of Slaneesh",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points" : "0"
+    },
+    {
+      "name": "Daemon Cohort of Tzeentch",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points" : "1.5"
+    },
+    {
+      "name": "Daemon Cohort of Nurgle",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points" : "0.5"
+    },
+    {
+      "name": "Daemon Cohort of Khorne",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points" : "0.5"
+    },
+    {
+      "name": "Blood Host of Khorne",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points" : "1"
+    },
+    {
+      "name": "Tallyband of Nurgle",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points" : "0.5"
+    },
+    {
+      "name": "Changehost of Tzeentch",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points" : "0.5"
+    },
+    {
+      "name": "Nurgles Deluge",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points" : "0.5"
+    },
+    {
+      "name": "The Watcher King's Horde",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points" : "0.5"
+    },
+    {
+      "name": "Blightguard",
+      "wounds": "0",
+      "models": "0",
+      "desc": "Formation",
+      "points" : "0.5"
+    }
+  ]
+}
