@@ -1,14 +1,10 @@
-// const React = require('react');
-// const Army = require('./army');
-const armyData = require('../vendor/2016-09-25/gwPoolPoints.csv');
+const Army = require('./army');
+const armyData = require('../army-data');
 
-armyData.map(({ name, points }) => {
+class App extends React.Component {
+  render() {
+    return (<Army data={ armyData } />);
+  }
+}
 
-})
-// class App extends React.Component {
-//   render() {
-//     return (<Army data={ armyData } />);
-//   }
-// }
-
-// module.exports = App;
+module.exports = App;
