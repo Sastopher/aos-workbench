@@ -1,5 +1,5 @@
 module.exports = {
-  entry: './index.jsx',
+  entry: './client/src/index.jsx',
   resolve: {
     extensions: ['', '.js', '.jsx', '.json']
   },
@@ -7,6 +7,9 @@ module.exports = {
     path: __dirname,
     publicPath: '/assets/',
     filename: 'bundle.js'
+  },
+  externals: {
+    '_': 'lodash'
   },
   module: {
     loaders: [

@@ -1,4 +1,5 @@
 const React = require('react');
+const armyData = require('../army-data');
 
 class Army extends React.Component {
   getPtRatio({ points, wounds }) {
@@ -49,7 +50,6 @@ class Army extends React.Component {
 }
 
 Army.proptypes = {
-  name: React.PropTypes.string.isRequired,
   data: React.PropTypes.object.isRequired
 }
 
