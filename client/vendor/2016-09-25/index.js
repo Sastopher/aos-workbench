@@ -25,7 +25,6 @@ const vampirecounts = require('./vampirecounts');
 const warriorsofchaos = require('./warriorsofchaos');
 const woodelves = require('./woodelves');
 
-
 module.exports = {
   beastclawraiders,
   beastmen,

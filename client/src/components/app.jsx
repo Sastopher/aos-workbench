@@ -1,10 +1,12 @@
-const Army = require('./army');
-const armyData = require('../army-data');
+import React from 'react';
+import UnitTable from './unit-table';
 
-class App extends React.Component {
+class App extends React.PureComponent {
   render() {
-    return (<Army data={ armyData } />);
+    return (
+      <UnitTable />
+    );
   }
 }
 
-module.exports = App;
+export default App;
