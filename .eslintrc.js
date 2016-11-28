@@ -1,10 +1,5 @@
 module.exports = {
-  "env": {
-    "browser": true,
-    "commonjs": true,
-    "es6": true
-  },
-  "extends": "airbnb",
+  extends: 'airbnb',
   parserOptions: {
     generators: true,
     ecmaFeatures: {
@@ -14,12 +9,17 @@ module.exports = {
   },
   rules: {
     'max-len': [2, 100, 2],
-    'eqeqeq': [2, 'allow-null']
+    'eqeqeq': [2, 'allow-null'],
+    'react/prefer-stateless-function': 0,
+    'no-param-reassign': [2, { "props": false }]
   },
   globals: {
     _: true
   },
   env: {
-    commonjs: true
+    browser: true,
+    commonjs: true,
+    es6: true,
+    jest: true
   }
 };

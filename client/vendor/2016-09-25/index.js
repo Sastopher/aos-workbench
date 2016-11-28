@@ -52,5 +52,5 @@ module.exports = {
   tomekings,
   vampirecounts,
   warriorsofchaos,
-  woodelves
+  woodelves,
 };
