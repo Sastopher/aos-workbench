@@ -1,3 +1,4 @@
+import Immutable from 'immutable';
 import gwPoolPoints from '../vendor/gwPoolPoints.csv';
 import armyListPoints from '../vendor/2016-09-25';
 
@@ -25,9 +26,12 @@ const mergeArmyPoints = (data, armyPoints = {}) =>
     return acc;
   }, data);
 
+const pointsWoundsRatio = ({ points, wounds }) => (wounds ? (points / wounds) : 'N/A');
+
 const mergePoolPoints = (data, poolPoints) =>
   _.reduce(poolPoints, (acc, unit) => {
     acc[unit.name] = { ...acc[unit.name], ...unit };
+    acc[unit.name].ptr = pointsWoundsRatio(acc[unit.name]);
     return acc;
   }, data);
 
@@ -40,8 +44,11 @@ const genUnitByName = ({ poolPoints = {}, armyPoints = {} }) => {
   return unitsByName;
 };
 
-const unitsByName = genUnitByName({ poolPoints: gwPoolPoints, armyPoints: armyListPoints });
-const unitsList = Object.values(unitsByName);
+const unitsByName = Immutable.Map(genUnitByName({
+  poolPoints: gwPoolPoints,
+  armyPoints: armyListPoints,
+}));
+const unitsList = Immutable.List(unitsByName.values());
 
 export default unitsList;
 export { genUnitByName, unitsByName };
